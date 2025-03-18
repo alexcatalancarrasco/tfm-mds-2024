@@ -1,0 +1,1079 @@
+per_sies;id_carr_gen;area_carr;tipo_inst;nom_carr_gen;coho_tit;tit_mujeres;tit_hombres;tit_total
+2024-2025;1;Administración y Comercio;Centros de Formación Técnica;Secretariado Bilingüe;2023;42;3.0;45
+2024-2025;3;Agropecuaria;Centros de Formación Técnica;Técnico Agropecuario;2023;556;671.0;1227
+2024-2025;4;Educación;Centros de Formación Técnica;Técnico Asistente del Educador de Párvulos;2023;2700;5.0;2705
+2024-2025;5;Educación;Centros de Formación Técnica;Técnico Asistente del Educador Diferencial;2023;1315;34.0;1349
+2024-2025;6;Salud;Centros de Formación Técnica;Técnico Dental y Asistente de Odontología;2023;707;71.0;778
+2024-2025;7;Agropecuaria;Centros de Formación Técnica;Técnico en Acuicultura y Pesca;2023;20;43.0;63
+2024-2025;8;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Empresas;2023;2409;1248.0;3657
+2024-2025;9;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Recursos Humanos y Personal;2023;380;57.0;437
+2024-2025;11;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Ventas;2023;11;5.0;16
+2024-2025;14;Ciencias Sociales;Centros de Formación Técnica;Técnico en Administración Pública o Municipal;2023;315;117.0;432
+2024-2025;18;Administración y Comercio;Centros de Formación Técnica;Técnico en Comercio Exterior;2023;161;99.0;260
+2024-2025;19;Tecnología;Centros de Formación Técnica;Técnico en Computación e Informática;2023;161;1085.0;1246
+2024-2025;22;Tecnología;Centros de Formación Técnica;Técnico en Construcción y Obras Civiles;2023;319;1118.0;1437
+2024-2025;23;Administración y Comercio;Centros de Formación Técnica;Técnico en Contabilidad General;2023;631;275.0;906
+2024-2025;25;Educación;Centros de Formación Técnica;Técnico en Deporte, Recreación y Preparación Física;2023;309;745.0;1054
+2024-2025;29;Tecnología;Centros de Formación Técnica;Técnico en Electricidad y Electricidad Industrial;2023;47;1016.0;1063
+2024-2025;31;Tecnología;Centros de Formación Técnica;Técnico en Electrónica y Electrónica Industrial;2023;4;85.0;89
+2024-2025;33;Salud;Centros de Formación Técnica;Técnico en Enfermería;2023;4484;734.0;5218
+2024-2025;34;Salud;Centros de Formación Técnica;Técnico en Farmacia;2023;529;98.0;627
+2024-2025;36;Administración y Comercio;Centros de Formación Técnica;Técnico en Gastronomía y Cocina;2023;1587;1010.0;2597
+2024-2025;37;Ciencias Básicas;Centros de Formación Técnica;Técnico en Geominería;2023;16;20.0;36
+2024-2025;39;Tecnología;Centros de Formación Técnica;Técnico en Instrumentación, Automatización y Control Industrial;2023;51;599.0;650
+2024-2025;40;Salud;Centros de Formación Técnica;Técnico en Laboratorio Clínico;2023;378;105.0;483
+2024-2025;41;Administración y Comercio;Centros de Formación Técnica;Técnico en Logística;2023;544;609.0;1153
+2024-2025;42;Tecnología;Centros de Formación Técnica;Técnico en Mantenimiento Industrial;2023;106;1464.0;1570
+2024-2025;44;Tecnología;Centros de Formación Técnica;Técnico en Mecánica Automotriz;2023;91;2684.0;2775
+2024-2025;45;Tecnología;Centros de Formación Técnica;Técnico en Mecánica Industrial;2023;10;216.0;226
+2024-2025;47;Tecnología;Centros de Formación Técnica;Técnico en Metalurgia;2023;37;48.0;85
+2024-2025;48;Tecnología;Centros de Formación Técnica;Técnico en Minería;2023;114;283.0;397
+2024-2025;51;Salud;Centros de Formación Técnica;Técnico en Podología;2023;366;14.0;380
+2024-2025;52;Tecnología;Centros de Formación Técnica;Técnico en Prevención de Riesgos;2023;418;456.0;874
+2024-2025;53;Tecnología;Centros de Formación Técnica;Técnico en Procesos Industriales;2023;3;24.0;27
+2024-2025;54;Arte y Arquitectura;Centros de Formación Técnica;Técnico en Producción Gráfica y Multimedia;2023;113;132.0;245
+2024-2025;55;Ciencias Básicas;Centros de Formación Técnica;Técnico en Química (Análisis e Industrial);2023;70;29.0;99
+2024-2025;56;Salud;Centros de Formación Técnica;Técnico en Radiología y Radioterapia;2023;55;23.0;78
+2024-2025;57;Tecnología;Centros de Formación Técnica;Técnico en Refrigeración y Climatización;2023;8;91.0;99
+2024-2025;59;Ciencias Sociales;Centros de Formación Técnica;Técnico en Servicio Social;2023;901;102.0;1003
+2024-2025;60;Tecnología;Centros de Formación Técnica;Técnico en Telecomunicaciones;2023;30;429.0;459
+2024-2025;62;Tecnología;Centros de Formación Técnica;Técnico en Topografía;2023;109;288.0;397
+2024-2025;64;Administración y Comercio;Centros de Formación Técnica;Técnico en Turismo y Hotelería;2023;545;278.0;823
+2024-2025;66;Derecho;Centros de Formación Técnica;Técnico Jurídico;2023;251;72.0;323
+2024-2025;67;Salud;Centros de Formación Técnica;Técnico Laboratorista Dental;2023;121;42.0;163
+2024-2025;68;Agropecuaria;Centros de Formación Técnica;Técnico Veterinario;2023;520;144.0;664
+2024-2025;70;Administración y Comercio;Institutos Profesionales;Administración de Empresas e Ing. Asociadas;2023;2941;1639.0;4580
+2024-2025;71;Administración y Comercio;Institutos Profesionales;Administración Gastronómica;2023;645;414.0;1059
+2024-2025;72;Ciencias Sociales;Institutos Profesionales;Administración Pública;2023;432;216.0;648
+2024-2025;73;Administración y Comercio;Institutos Profesionales;Administración Turística y Hotelera;2023;488;174.0;662
+2024-2025;74;Arte y Arquitectura;Institutos Profesionales;Animación Digital;2023;82;82.0;164
+2024-2025;75;Arte y Arquitectura;Institutos Profesionales;Comunicación Audiovisual y/o Multimedia;2023;145;289.0;434
+2024-2025;76;Tecnología;Institutos Profesionales;Construcción Civil;2023;288;1177.0;1465
+2024-2025;77;Administración y Comercio;Institutos Profesionales;Contador Auditor;2023;1414;698.0;2112
+2024-2025;78;Arte y Arquitectura;Institutos Profesionales;Diseño de Ambientes e Interiores;2023;104;16.0;120
+2024-2025;79;Arte y Arquitectura;Institutos Profesionales;Diseño de Vestuario;2023;194;22.0;216
+2024-2025;80;Arte y Arquitectura;Institutos Profesionales;Diseño Gráfico;2023;554;392.0;946
+2024-2025;81;Tecnología;Institutos Profesionales;Diseño Industrial;2023;50;61.0;111
+2024-2025;82;Salud;Institutos Profesionales;Fonoaudiología;2023;156;21.0;177
+2024-2025;84;Agropecuaria;Institutos Profesionales;Ingeniería Agrícola;2023;384;457.0;841
+2024-2025;87;Tecnología;Institutos Profesionales;Ingeniería en Automatización, Instrumentación y Control;2023;21;257.0;278
+2024-2025;88;Administración y Comercio;Institutos Profesionales;Ingeniería en Comercio Exterior;2023;310;206.0;516
+2024-2025;89;Tecnología;Institutos Profesionales;Ingeniería en Computación e Informática;2023;241;1978.0;2219
+2024-2025;90;Tecnología;Institutos Profesionales;Ingeniería en Conectividad y Redes;2023;64;637.0;701
+2024-2025;91;Tecnología;Institutos Profesionales;Ingeniería en Construcción;2023;268;979.0;1247
+2024-2025;93;Tecnología;Institutos Profesionales;Ingeniería en Electricidad;2023;52;1281.0;1333
+2024-2025;96;Administración y Comercio;Institutos Profesionales;Ingeniería en Finanzas;2023;544;270.0;814
+2024-2025;97;Ciencias Básicas;Institutos Profesionales;Ingeniería en Geomensura y Cartografía;2023;53;225.0;278
+2024-2025;98;Ciencias Sociales;Institutos Profesionales;Ingeniería en Gestión Pública;2023;225;117.0;342
+2024-2025;100;Administración y Comercio;Institutos Profesionales;Ingeniería en Logística;2023;382;531.0;913
+2024-2025;101;Administración y Comercio;Institutos Profesionales;Ingeniería en Marketing;2023;319;232.0;551
+2024-2025;103;Tecnología;Institutos Profesionales;Ingeniería en Mecánica Automotriz;2023;103;2799.0;2902
+2024-2025;104;Tecnología;Institutos Profesionales;Ingeniería en Medio Ambiente;2023;159;107.0;266
+2024-2025;105;Tecnología;Institutos Profesionales;Ingeniería en Metalurgia;2023;39;53.0;92
+2024-2025;106;Tecnología;Institutos Profesionales;Ingeniería en Minas;2023;164;379.0;543
+2024-2025;107;Tecnología;Institutos Profesionales;Ingeniería en Prevención de Riesgos;2023;931;925.0;1856
+2024-2025;108;Tecnología;Institutos Profesionales;Ingeniería en Química;2023;115;42.0;157
+2024-2025;109;Administración y Comercio;Institutos Profesionales;Ingeniería en Recursos Humanos;2023;1284;350.0;1634
+2024-2025;110;Tecnología;Institutos Profesionales;Ingeniería en Refrigeración y Climatización;2023;3;89.0;92
+2024-2025;111;Administración y Comercio;Institutos Profesionales;Ingeniería en Seguridad Privada;2023;112;650.0;762
+2024-2025;112;Tecnología;Institutos Profesionales;Ingeniería en Sonido;2023;18;196.0;214
+2024-2025;113;Tecnología;Institutos Profesionales;Ingeniería en Telecomunicaciones;2023;35;291.0;326
+2024-2025;114;Tecnología;Institutos Profesionales;Ingeniería Industrial;2023;100;874.0;974
+2024-2025;116;Tecnología;Institutos Profesionales;Ingeniería Mecánica;2023;32;769.0;801
+2024-2025;117;Salud;Institutos Profesionales;Kinesiología;2023;77;64.0;141
+2024-2025;118;Arte y Arquitectura;Institutos Profesionales;Música, Canto o Danza;2023;45;165.0;210
+2024-2025;120;Educación;Institutos Profesionales;Psicopedagogía;2023;1474;121.0;1595
+2024-2025;121;Ciencias Sociales;Institutos Profesionales;Publicidad;2023;185;166.0;351
+2024-2025;123;Ciencias Sociales;Institutos Profesionales;Relaciones Públicas;2023;131;71.0;202
+2024-2025;124;Agropecuaria;Institutos Profesionales;Técnico Agropecuario;2023;114;131.0;245
+2024-2025;125;Educación;Institutos Profesionales;Técnico Asistente del Educador de Párvulos;2023;2737;6.0;2743
+2024-2025;126;Educación;Institutos Profesionales;Técnico Asistente del Educador Diferencial;2023;1158;39.0;1197
+2024-2025;127;Salud;Institutos Profesionales;Técnico Dental y Asistente de Odontología;2023;829;86.0;915
+2024-2025;128;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Empresas;2023;2513;1231.0;3744
+2024-2025;129;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Recursos Humanos y Personal;2023;581;142.0;723
+2024-2025;130;Tecnología;Institutos Profesionales;Técnico en Administración de Redes y Soporte;2023;20;231.0;251
+2024-2025;133;Administración y Comercio;Institutos Profesionales;Técnico en Administración Financiera y Finanzas;2023;360;168.0;528
+2024-2025;134;Ciencias Sociales;Institutos Profesionales;Técnico en Administración Pública o Municipal;2023;390;245.0;635
+2024-2025;135;Tecnología;Institutos Profesionales;Técnico en Alimentos;2023;32;7.0;39
+2024-2025;139;Administración y Comercio;Institutos Profesionales;Técnico en Comercio Exterior;2023;187;133.0;320
+2024-2025;140;Tecnología;Institutos Profesionales;Técnico en Computación e Informática;2023;191;1326.0;1517
+2024-2025;141;Arte y Arquitectura;Institutos Profesionales;Técnico en Comunicación Audiovisual;2023;64;145.0;209
+2024-2025;143;Tecnología;Institutos Profesionales;Técnico en Construcción y Obras Civiles;2023;194;884.0;1078
+2024-2025;144;Administración y Comercio;Institutos Profesionales;Técnico en Contabilidad General;2023;873;345.0;1218
+2024-2025;145;Administración y Comercio;Institutos Profesionales;Técnico en Contabilidad Tributaria;2023;370;173.0;543
+2024-2025;146;Educación;Institutos Profesionales;Técnico en Deporte, Recreación y Preparación Física;2023;198;585.0;783
+2024-2025;147;Arte y Arquitectura;Institutos Profesionales;Técnico en Dibujo Arquitectónico;2023;98;128.0;226
+2024-2025;149;Arte y Arquitectura;Institutos Profesionales;Técnico en Diseño Gráfico;2023;127;89.0;216
+2024-2025;150;Tecnología;Institutos Profesionales;Técnico en Electricidad y Electricidad Industrial;2023;36;876.0;912
+2024-2025;151;Tecnología;Institutos Profesionales;Técnico en Electromecánica;2023;14;137.0;151
+2024-2025;153;Salud;Institutos Profesionales;Técnico en Enfermería;2023;5041;937.0;5978
+2024-2025;154;Salud;Institutos Profesionales;Técnico en Farmacia;2023;198;60.0;258
+2024-2025;156;Administración y Comercio;Institutos Profesionales;Técnico en Gastronomía y Cocina;2023;233;229.0;462
+2024-2025;157;Ciencias Básicas;Institutos Profesionales;Técnico en Geología;2023;21;32.0;53
+2024-2025;159;Tecnología;Institutos Profesionales;Técnico en Instrumentación, Automatización y Control Industrial;2023;56;785.0;841
+2024-2025;160;Salud;Institutos Profesionales;Técnico en Laboratorio Clínico;2023;214;54.0;268
+2024-2025;161;Administración y Comercio;Institutos Profesionales;Técnico en Logística;2023;445;952.0;1397
+2024-2025;162;Tecnología;Institutos Profesionales;Técnico en Mantenimiento Industrial;2023;11;269.0;280
+2024-2025;163;Salud;Institutos Profesionales;Técnico en Masoterapia;2023;139;49.0;188
+2024-2025;164;Tecnología;Institutos Profesionales;Técnico en Mecánica Automotriz;2023;29;753.0;782
+2024-2025;167;Tecnología;Institutos Profesionales;Técnico en Minería;2023;86;380.0;466
+2024-2025;169;Arte y Arquitectura;Institutos Profesionales;Técnico en Peluquería y Estética;2023;1190;32.0;1222
+2024-2025;170;Salud;Institutos Profesionales;Técnico en Podología;2023;463;41.0;504
+2024-2025;171;Tecnología;Institutos Profesionales;Técnico en Prevención de Riesgos;2023;299;381.0;680
+2024-2025;178;Salud;Institutos Profesionales;Técnico en Radiología y Radioterapia;2023;86;43.0;129
+2024-2025;179;Ciencias Sociales;Institutos Profesionales;Técnico en Relaciones Públicas;2023;20;12.0;32
+2024-2025;181;Ciencias Sociales;Institutos Profesionales;Técnico en Servicio Social;2023;1975;296.0;2271
+2024-2025;182;Tecnología;Institutos Profesionales;Técnico en Sonido;2023;20;252.0;272
+2024-2025;183;Tecnología;Institutos Profesionales;Técnico en Telecomunicaciones;2023;15;193.0;208
+2024-2025;185;Tecnología;Institutos Profesionales;Técnico en Topografía;2023;27;123.0;150
+2024-2025;186;Humanidades;Institutos Profesionales;Técnico en Traducción e Interpretariado;2023;80;41.0;121
+2024-2025;188;Administración y Comercio;Institutos Profesionales;Técnico en Turismo y Hotelería;2023;340;195.0;535
+2024-2025;189;Derecho;Institutos Profesionales;Técnico Jurídico;2023;464;168.0;632
+2024-2025;190;Salud;Institutos Profesionales;Técnico Laboratorista Dental;2023;109;42.0;151
+2024-2025;191;Agropecuaria;Institutos Profesionales;Técnico Veterinario;2023;218;32.0;250
+2024-2025;192;Salud;Institutos Profesionales;Terapia Ocupacional;2023;249;37.0;286
+2024-2025;193;Ciencias Sociales;Institutos Profesionales;Trabajo Social;2023;2736;479.0;3215
+2023-2024;1;Administración y Comercio;Centro de Formación Técnica;Secretariado Bilingüe;2022;67;2.0;69
+2023-2024;2;Agropecuaria;Centro de Formación Técnica;Técnico Agropecuario;2022;411;487.0;898
+2023-2024;3;Educación;Centro de Formación Técnica;Técnico Asistente del Educador de Párvulos;2022;3040;3.0;3043
+2023-2024;4;Educación;Centro de Formación Técnica;Técnico Asistente del Educador Diferencial;2022;1271;30.0;1301
+2023-2024;5;Salud;Centro de Formación Técnica;Técnico Dental y Asistente de Odontología;2022;725;86.0;811
+2023-2024;6;Agropecuaria;Centro de Formación Técnica;Técnico en Acuicultura y Pesca;2022;15;27.0;42
+2023-2024;7;Administración y Comercio;Centro de Formación Técnica;Técnico en Administración de Empresas;2022;2595;1263.0;3858
+2023-2024;8;Administración y Comercio;Centro de Formación Técnica;Técnico en Administración de Recursos Humanos y Personal;2022;380;95.0;475
+2023-2024;10;Administración y Comercio;Centro de Formación Técnica;Técnico en Administración de Ventas;2022;38;25.0;63
+2023-2024;11;Administración y Comercio;Centro de Formación Técnica;Técnico en Administración Financiera y Finanzas;2022;20;10.0;30
+2023-2024;12;Ciencias Sociales;Centro de Formación Técnica;Técnico en Administración Pública o Municipal;2022;341;89.0;430
+2023-2024;14;Administración y Comercio;Centro de Formación Técnica;Técnico en Comercio Exterior;2022;205;138.0;343
+2023-2024;15;Tecnología;Centro de Formación Técnica;Técnico en Computación e Informática;2022;136;970.0;1106
+2023-2024;16;Tecnología;Centro de Formación Técnica;Técnico en Construcción y Obras Civiles;2022;195;778.0;973
+2023-2024;17;Administración y Comercio;Centro de Formación Técnica;Técnico en Contabilidad General;2022;713;276.0;989
+2023-2024;18;Educación;Centro de Formación Técnica;Técnico en Deporte, Recreación y Preparación Física;2022;388;901.0;1289
+2023-2024;19;Tecnología;Centro de Formación Técnica;Técnico en Electricidad y Electricidad Industrial;2022;35;994.0;1029
+2023-2024;21;Tecnología;Centro de Formación Técnica;Técnico en Electrónica y Electrónica Industrial;2022;6;116.0;122
+2023-2024;22;Salud;Centro de Formación Técnica;Técnico en Enfermería;2022;4124;727.0;4851
+2023-2024;23;Salud;Centro de Formación Técnica;Técnico en Farmacia;2022;638;138.0;776
+2023-2024;24;Administración y Comercio;Centro de Formación Técnica;Técnico en Gastronomía y Cocina;2022;1309;920.0;2229
+2023-2024;27;Tecnología;Centro de Formación Técnica;Técnico en Instrumentación, Automatización y Control Industrial;2022;71;877.0;948
+2023-2024;28;Salud;Centro de Formación Técnica;Técnico en Laboratorio Clínico;2022;303;61.0;364
+2023-2024;29;Administración y Comercio;Centro de Formación Técnica;Técnico en Logística;2022;475;620.0;1095
+2023-2024;30;Tecnología;Centro de Formación Técnica;Técnico en Mantenimiento Industrial;2022;86;1161.0;1247
+2023-2024;32;Tecnología;Centro de Formación Técnica;Técnico en Mecánica Automotriz;2022;61;1824.0;1885
+2023-2024;33;Tecnología;Centro de Formación Técnica;Técnico en Mecánica Industrial;2022;8;239.0;247
+2023-2024;35;Tecnología;Centro de Formación Técnica;Técnico en Minería;2022;120;231.0;351
+2023-2024;37;Salud;Centro de Formación Técnica;Técnico en Podología;2022;356;17.0;373
+2023-2024;38;Tecnología;Centro de Formación Técnica;Técnico en Prevención de Riesgos;2022;174;161.0;335
+2023-2024;39;Tecnología;Centro de Formación Técnica;Técnico en Procesos Industriales;2022;1;41.0;42
+2023-2024;40;Arte y Arquitectura;Centro de Formación Técnica;Técnico en Producción Gráfica y Multimedia;2022;97;84.0;181
+2023-2024;41;Ciencias Básicas;Centro de Formación Técnica;Técnico en Química (Análisis e Industrial);2022;83;50.0;133
+2023-2024;42;Salud;Centro de Formación Técnica;Técnico en Radiología y Radioterapia;2022;35;19.0;54
+2023-2024;43;Tecnología;Centro de Formación Técnica;Técnico en Refrigeración y Climatización;2022;1;81.0;82
+2023-2024;44;Ciencias Sociales;Centro de Formación Técnica;Técnico en Servicio Social;2022;815;122.0;937
+2023-2024;45;Tecnología;Centro de Formación Técnica;Técnico en Telecomunicaciones;2022;20;257.0;277
+2023-2024;47;Tecnología;Centro de Formación Técnica;Técnico en Topografía;2022;79;310.0;389
+2023-2024;49;Administración y Comercio;Centro de Formación Técnica;Técnico en Turismo y Hotelería;2022;449;295.0;744
+2023-2024;50;Derecho;Centro de Formación Técnica;Técnico Jurídico;2022;188;85.0;273
+2023-2024;51;Salud;Centro de Formación Técnica;Técnico Laboratorista Dental;2022;98;42.0;140
+2023-2024;52;Agropecuaria;Centro de Formación Técnica;Técnico Veterinario;2022;329;115.0;444
+2023-2024;54;Administración y Comercio;Instituto Profesional;Administración de Empresas e Ing. Asociadas;2022;2933;1696.0;4629
+2023-2024;55;Administración y Comercio;Instituto Profesional;Administración Gastronómica;2022;802;507.0;1309
+2023-2024;56;Ciencias Sociales;Instituto Profesional;Administración Pública;2022;380;179.0;559
+2023-2024;57;Administración y Comercio;Instituto Profesional;Administración Turística y Hotelera;2022;595;228.0;823
+2023-2024;59;Arte y Arquitectura;Instituto Profesional;Comunicación Audiovisual y/o Multimedia;2022;131;262.0;393
+2023-2024;60;Tecnología;Instituto Profesional;Construcción Civil;2022;329;1362.0;1691
+2023-2024;61;Administración y Comercio;Instituto Profesional;Contador Auditor;2022;1553;816.0;2369
+2023-2024;62;Arte y Arquitectura;Instituto Profesional;Diseño de Ambientes e Interiores;2022;87;12.0;99
+2023-2024;63;Arte y Arquitectura;Instituto Profesional;Diseño de Vestuario;2022;235;22.0;257
+2023-2024;64;Arte y Arquitectura;Instituto Profesional;Diseño Gráfico;2022;426;349.0;775
+2023-2024;65;Tecnología;Instituto Profesional;Diseño Industrial;2022;49;56.0;105
+2023-2024;66;Salud;Instituto Profesional;Fonoaudiología;2022;222;16.0;238
+2023-2024;68;Agropecuaria;Instituto Profesional;Ingeniería Agrícola;2022;310;442.0;752
+2023-2024;69;Tecnología;Instituto Profesional;Ingeniería en Automatización, Instrumentación y Control;2022;7;147.0;154
+2023-2024;70;Administración y Comercio;Instituto Profesional;Ingeniería en Comercio Exterior;2022;305;214.0;519
+2023-2024;71;Tecnología;Instituto Profesional;Ingeniería en Computación e Informática;2022;228;1852.0;2080
+2023-2024;72;Tecnología;Instituto Profesional;Ingeniería en Conectividad y Redes;2022;47;587.0;634
+2023-2024;73;Tecnología;Instituto Profesional;Ingeniería en Construcción;2022;298;1011.0;1309
+2023-2024;74;Tecnología;Instituto Profesional;Ingeniería en Electricidad;2022;64;1052.0;1116
+2023-2024;75;Administración y Comercio;Instituto Profesional;Ingeniería en Finanzas;2022;304;163.0;467
+2023-2024;76;Ciencias Básicas;Instituto Profesional;Ingeniería en Geomensura y Cartografía;2022;49;155.0;204
+2023-2024;77;Ciencias Sociales;Instituto Profesional;Ingeniería en Gestión Pública;2022;281;105.0;386
+2023-2024;78;Administración y Comercio;Instituto Profesional;Ingeniería en Logística;2022;303;412.0;715
+2023-2024;79;Administración y Comercio;Instituto Profesional;Ingeniería en Marketing;2022;409;339.0;748
+2023-2024;80;Tecnología;Instituto Profesional;Ingeniería en Mecánica Automotriz;2022;106;2565.0;2671
+2023-2024;81;Tecnología;Instituto Profesional;Ingeniería en Medio Ambiente;2022;125;84.0;209
+2023-2024;82;Tecnología;Instituto Profesional;Ingeniería en Metalurgia;2022;42;71.0;113
+2023-2024;83;Tecnología;Instituto Profesional;Ingeniería en Minas;2022;196;390.0;586
+2023-2024;84;Tecnología;Instituto Profesional;Ingeniería en Prevención de Riesgos;2022;1072;1136.0;2208
+2023-2024;85;Tecnología;Instituto Profesional;Ingeniería en Química;2022;69;55.0;124
+2023-2024;86;Administración y Comercio;Instituto Profesional;Ingeniería en Recursos Humanos;2022;1279;387.0;1666
+2023-2024;87;Tecnología;Instituto Profesional;Ingeniería en Refrigeración y Climatización;2022;3;88.0;91
+2023-2024;88;Administración y Comercio;Instituto Profesional;Ingeniería en Seguridad Privada;2022;132;539.0;671
+2023-2024;89;Tecnología;Instituto Profesional;Ingeniería en Sonido;2022;18;149.0;167
+2023-2024;90;Tecnología;Instituto Profesional;Ingeniería en Telecomunicaciones;2022;35;323.0;358
+2023-2024;91;Tecnología;Instituto Profesional;Ingeniería Industrial;2022;72;509.0;581
+2023-2024;92;Tecnología;Instituto Profesional;Ingeniería Mecánica;2022;38;838.0;876
+2023-2024;93;Salud;Instituto Profesional;Kinesiología;2022;186;102.0;288
+2023-2024;94;Arte y Arquitectura;Instituto Profesional;Música, Canto o Danza;2022;54;137.0;191
+2023-2024;97;Educación;Instituto Profesional;Psicopedagogía;2022;1446;102.0;1548
+2023-2024;98;Ciencias Sociales;Instituto Profesional;Publicidad;2022;197;175.0;372
+2023-2024;100;Ciencias Sociales;Instituto Profesional;Relaciones Públicas;2022;141;53.0;194
+2023-2024;101;Agropecuaria;Instituto Profesional;Técnico Agropecuario;2022;83;109.0;192
+2023-2024;102;Educación;Instituto Profesional;Técnico Asistente del Educador de Párvulos;2022;3169;2.0;3171
+2023-2024;103;Educación;Instituto Profesional;Técnico Asistente del Educador Diferencial;2022;1318;31.0;1349
+2023-2024;104;Salud;Instituto Profesional;Técnico Dental y Asistente de Odontología;2022;855;85.0;940
+2023-2024;105;Administración y Comercio;Instituto Profesional;Técnico en Administración de Empresas;2022;2513;1376.0;3889
+2023-2024;106;Administración y Comercio;Instituto Profesional;Técnico en Administración de Recursos Humanos y Personal;2022;623;156.0;779
+2023-2024;107;Tecnología;Instituto Profesional;Técnico en Administración de Redes y Soporte;2022;20;245.0;265
+2023-2024;108;Administración y Comercio;Instituto Profesional;Técnico en Administración de Ventas;2022;16;7.0;23
+2023-2024;109;Administración y Comercio;Instituto Profesional;Técnico en Administración Financiera y Finanzas;2022;452;245.0;697
+2023-2024;110;Ciencias Sociales;Instituto Profesional;Técnico en Administración Pública o Municipal;2022;302;195.0;497
+2023-2024;111;Tecnología;Instituto Profesional;Técnico en Alimentos;2022;34;13.0;47
+2023-2024;114;Administración y Comercio;Instituto Profesional;Técnico en Comercio Exterior;2022;132;104.0;236
+2023-2024;115;Tecnología;Instituto Profesional;Técnico en Computación e Informática;2022;189;1158.0;1347
+2023-2024;116;Arte y Arquitectura;Instituto Profesional;Técnico en Comunicación Audiovisual;2022;71;170.0;241
+2023-2024;117;Tecnología;Instituto Profesional;Técnico en Construcción y Obras Civiles;2022;200;983.0;1183
+2023-2024;118;Administración y Comercio;Instituto Profesional;Técnico en Contabilidad General;2022;799;347.0;1146
+2023-2024;119;Administración y Comercio;Instituto Profesional;Técnico en Contabilidad Tributaria;2022;493;223.0;716
+2023-2024;120;Educación;Instituto Profesional;Técnico en Deporte, Recreación y Preparación Física;2022;238;673.0;911
+2023-2024;121;Arte y Arquitectura;Instituto Profesional;Técnico en Dibujo Arquitectónico;2022;92;121.0;213
+2023-2024;122;Arte y Arquitectura;Instituto Profesional;Técnico en Diseño Gráfico;2022;89;71.0;160
+2023-2024;123;Tecnología;Instituto Profesional;Técnico en Electricidad y Electricidad Industrial;2022;49;957.0;1006
+2023-2024;124;Tecnología;Instituto Profesional;Técnico en Electromecánica;2022;12;153.0;165
+2023-2024;126;Salud;Instituto Profesional;Técnico en Enfermería;2022;4413;736.0;5149
+2023-2024;127;Salud;Instituto Profesional;Técnico en Farmacia;2022;137;54.0;191
+2023-2024;129;Administración y Comercio;Instituto Profesional;Técnico en Gastronomía y Cocina;2022;262;216.0;478
+2023-2024;130;Ciencias Básicas;Instituto Profesional;Técnico en Geología;2022;37;38.0;75
+2023-2024;131;Tecnología;Instituto Profesional;Técnico en Instrumentación, Automatización y Control Industrial;2022;39;602.0;641
+2023-2024;132;Salud;Instituto Profesional;Técnico en Laboratorio Clínico;2022;251;48.0;299
+2023-2024;133;Administración y Comercio;Instituto Profesional;Técnico en Logística;2022;347;712.0;1059
+2023-2024;134;Tecnología;Instituto Profesional;Técnico en Mantenimiento Industrial;2022;8;279.0;287
+2023-2024;135;Salud;Instituto Profesional;Técnico en Masoterapia;2022;134;43.0;177
+2023-2024;136;Tecnología;Instituto Profesional;Técnico en Mecánica Automotriz;2022;32;890.0;922
+2023-2024;139;Tecnología;Instituto Profesional;Técnico en Minería;2022;99;320.0;419
+2023-2024;140;Salud;Instituto Profesional;Técnico en Nutrición y Dietética;2022;15;3.0;18
+2023-2024;141;Arte y Arquitectura;Instituto Profesional;Técnico en Peluquería y Estética;2022;1089;29.0;1118
+2023-2024;142;Salud;Instituto Profesional;Técnico en Podología;2022;288;21.0;309
+2023-2024;143;Tecnología;Instituto Profesional;Técnico en Prevención de Riesgos;2022;253;329.0;582
+2023-2024;145;Salud;Instituto Profesional;Técnico en Radiología y Radioterapia;2022;122;37.0;159
+2023-2024;146;Ciencias Sociales;Instituto Profesional;Técnico en Relaciones Públicas;2022;58;37.0;95
+2023-2024;148;Ciencias Sociales;Instituto Profesional;Técnico en Servicio Social;2022;1848;346.0;2194
+2023-2024;149;Tecnología;Instituto Profesional;Técnico en Sonido;2022;25;231.0;256
+2023-2024;150;Tecnología;Instituto Profesional;Técnico en Telecomunicaciones;2022;22;152.0;174
+2023-2024;152;Tecnología;Instituto Profesional;Técnico en Topografía;2022;42;156.0;198
+2023-2024;153;Humanidades;Instituto Profesional;Técnico en Traducción e Interpretariado;2022;73;44.0;117
+2023-2024;154;Administración y Comercio;Instituto Profesional;Técnico en Turismo y Hotelería;2022;394;218.0;612
+2023-2024;155;Derecho;Instituto Profesional;Técnico Jurídico;2022;358;166.0;524
+2023-2024;156;Salud;Instituto Profesional;Técnico Laboratorista Dental;2022;82;28.0;110
+2023-2024;157;Agropecuaria;Instituto Profesional;Técnico Veterinario;2022;178;44.0;222
+2023-2024;158;Salud;Instituto Profesional;Terapia Ocupacional;2022;444;64.0;508
+2023-2024;159;Ciencias Sociales;Instituto Profesional;Trabajo Social;2022;2734;514.0;3248
+2022-2023;1;Administración y Comercio;Centros de Formación Técnica;Secretariado Bilingüe;2021;54;3.0;57
+2022-2023;2;Agropecuaria;Centros de Formación Técnica;Técnico Agropecuario;2021;434;562.0;996
+2022-2023;3;Educación;Centros de Formación Técnica;Técnico Asistente del Educador de Párvulos;2021;3552;4.0;3556
+2022-2023;4;Educación;Centros de Formación Técnica;Técnico Asistente del Educador Diferencial;2021;1334;36.0;1370
+2022-2023;5;Salud;Centros de Formación Técnica;Técnico Dental y Asistente de Odontología;2021;870;102.0;972
+2022-2023;6;Agropecuaria;Centros de Formación Técnica;Técnico en Acuicultura y Pesca;2021;22;35.0;57
+2022-2023;7;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Empresas;2021;2476;1311.0;3787
+2022-2023;8;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Recursos Humanos y Personal;2021;386;89.0;475
+2022-2023;9;Tecnología;Centros de Formación Técnica;Técnico en Administración de Redes y Soporte;2021;5;32.0;37
+2022-2023;10;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Ventas;2021;43;31.0;74
+2022-2023;11;Ciencias Sociales;Centros de Formación Técnica;Técnico en Administración Pública o Municipal;2021;247;73.0;320
+2022-2023;12;Administración y Comercio;Centros de Formación Técnica;Técnico en Comercio Exterior;2021;136;111.0;247
+2022-2023;13;Tecnología;Centros de Formación Técnica;Técnico en Computación e Informática;2021;75;740.0;815
+2022-2023;14;Tecnología;Centros de Formación Técnica;Técnico en Construcción y Obras Civiles;2021;161;697.0;858
+2022-2023;15;Administración y Comercio;Centros de Formación Técnica;Técnico en Contabilidad General;2021;650;238.0;888
+2022-2023;16;Educación;Centros de Formación Técnica;Técnico en Deporte, Recreación y Preparación Física;2021;233;513.0;746
+2022-2023;17;Tecnología;Centros de Formación Técnica;Técnico en Electricidad y Electricidad Industrial;2021;39;1009.0;1048
+2022-2023;18;Tecnología;Centros de Formación Técnica;Técnico en Electrónica y Electrónica Industrial;2021;12;112.0;124
+2022-2023;19;Salud;Centros de Formación Técnica;Técnico en Enfermería;2021;4179;675.0;4854
+2022-2023;20;Salud;Centros de Formación Técnica;Técnico en Farmacia;2021;354;75.0;429
+2022-2023;21;Administración y Comercio;Centros de Formación Técnica;Técnico en Gastronomía y Cocina;2021;1063;697.0;1760
+2022-2023;22;Tecnología;Centros de Formación Técnica;Técnico en Instrumentación, Automatización y Control Industrial;2021;55;848.0;903
+2022-2023;23;Salud;Centros de Formación Técnica;Técnico en Laboratorio Clínico;2021;410;95.0;505
+2022-2023;24;Administración y Comercio;Centros de Formación Técnica;Técnico en Logística;2021;432;574.0;1006
+2022-2023;25;Tecnología;Centros de Formación Técnica;Técnico en Mantenimiento Industrial;2021;68;1163.0;1231
+2022-2023;26;Tecnología;Centros de Formación Técnica;Técnico en Mecánica Automotriz;2021;46;1671.0;1717
+2022-2023;27;Tecnología;Centros de Formación Técnica;Técnico en Mecánica Industrial;2021;7;261.0;268
+2022-2023;28;Tecnología;Centros de Formación Técnica;Técnico en Minería;2021;83;168.0;251
+2022-2023;29;Salud;Centros de Formación Técnica;Técnico en Podología;2021;193;17.0;210
+2022-2023;30;Tecnología;Centros de Formación Técnica;Técnico en Prevención de Riesgos;2021;281;235.0;516
+2022-2023;31;Tecnología;Centros de Formación Técnica;Técnico en Procesos Industriales;2021;1;29.0;30
+2022-2023;32;Ciencias Básicas;Centros de Formación Técnica;Técnico en Química (Análisis e Industrial);2021;80;49.0;129
+2022-2023;33;Salud;Centros de Formación Técnica;Técnico en Radiología y Radioterapia;2021;69;30.0;99
+2022-2023;34;Tecnología;Centros de Formación Técnica;Técnico en Refrigeración y Climatización;2021;3;91.0;94
+2022-2023;35;Ciencias Sociales;Centros de Formación Técnica;Técnico en Servicio Social;2021;699;107.0;806
+2022-2023;36;Tecnología;Centros de Formación Técnica;Técnico en Telecomunicaciones;2021;32;276.0;308
+2022-2023;37;Tecnología;Centros de Formación Técnica;Técnico en Topografía;2021;98;300.0;398
+2022-2023;38;Administración y Comercio;Centros de Formación Técnica;Técnico en Turismo y Hotelería;2021;381;211.0;592
+2022-2023;39;Derecho;Centros de Formación Técnica;Técnico Jurídico;2021;229;64.0;293
+2022-2023;40;Salud;Centros de Formación Técnica;Técnico Laboratorista Dental;2021;123;40.0;163
+2022-2023;41;Agropecuaria;Centros de Formación Técnica;Técnico Veterinario;2021;314;111.0;425
+2022-2023;42;Administración y Comercio;Institutos Profesionales;Administración de Empresas e Ing. Asociadas;2021;2804;1608.0;4412
+2022-2023;43;Administración y Comercio;Institutos Profesionales;Administración Gastronómica;2021;601;348.0;949
+2022-2023;44;Ciencias Sociales;Institutos Profesionales;Administración Pública;2021;409;213.0;622
+2022-2023;45;Administración y Comercio;Institutos Profesionales;Administración Turística y Hotelera;2021;490;219.0;709
+2022-2023;46;Arte y Arquitectura;Institutos Profesionales;Comunicación Audiovisual y/o Multimedia;2021;140;263.0;403
+2022-2023;47;Tecnología;Institutos Profesionales;Construcción Civil;2021;362;1661.0;2023
+2022-2023;48;Administración y Comercio;Institutos Profesionales;Contador Auditor;2021;1441;733.0;2174
+2022-2023;49;Arte y Arquitectura;Institutos Profesionales;Diseño de Ambientes e Interiores;2021;112;9.0;121
+2022-2023;50;Arte y Arquitectura;Institutos Profesionales;Diseño de Vestuario;2021;196;18.0;214
+2022-2023;51;Arte y Arquitectura;Institutos Profesionales;Diseño Gráfico;2021;428;373.0;801
+2022-2023;52;Tecnología;Institutos Profesionales;Diseño Industrial;2021;58;83.0;141
+2022-2023;53;Agropecuaria;Institutos Profesionales;Ingeniería Agrícola;2021;262;402.0;664
+2022-2023;54;Tecnología;Institutos Profesionales;Ingeniería en Automatización, Instrumentación y Control;2021;6;53.0;59
+2022-2023;55;Administración y Comercio;Institutos Profesionales;Ingeniería en Comercio Exterior;2021;270;212.0;482
+2022-2023;56;Tecnología;Institutos Profesionales;Ingeniería en Computación e Informática;2021;178;1639.0;1817
+2022-2023;57;Tecnología;Institutos Profesionales;Ingeniería en Conectividad y Redes;2021;48;617.0;665
+2022-2023;58;Tecnología;Institutos Profesionales;Ingeniería en Construcción;2021;350;1162.0;1512
+2022-2023;59;Tecnología;Institutos Profesionales;Ingeniería en Electricidad;2021;28;958.0;986
+2022-2023;60;Administración y Comercio;Institutos Profesionales;Ingeniería en Finanzas;2021;168;113.0;281
+2022-2023;61;Tecnología;Institutos Profesionales;Ingeniería en Geomensura y Cartografía;2021;52;157.0;209
+2022-2023;62;Ciencias Sociales;Institutos Profesionales;Ingeniería en Gestión Pública;2021;180;72.0;252
+2022-2023;63;Administración y Comercio;Institutos Profesionales;Ingeniería en Logística;2021;150;323.0;473
+2022-2023;64;Administración y Comercio;Institutos Profesionales;Ingeniería en Marketing;2021;341;317.0;658
+2022-2023;65;Tecnología;Institutos Profesionales;Ingeniería en Mecánica Automotriz;2021;92;2702.0;2794
+2022-2023;66;Tecnología;Institutos Profesionales;Ingeniería en Medio Ambiente;2021;101;80.0;181
+2022-2023;67;Tecnología;Institutos Profesionales;Ingeniería en Metalurgia;2021;48;71.0;119
+2022-2023;68;Tecnología;Institutos Profesionales;Ingeniería en Minas;2021;198;455.0;653
+2022-2023;69;Tecnología;Institutos Profesionales;Ingeniería en Prevención de Riesgos;2021;1295;1409.0;2704
+2022-2023;70;Tecnología;Institutos Profesionales;Ingeniería en Química;2021;86;55.0;141
+2022-2023;71;Administración y Comercio;Institutos Profesionales;Ingeniería en Recursos Humanos;2021;1462;388.0;1850
+2022-2023;72;Tecnología;Institutos Profesionales;Ingeniería en Refrigeración y Climatización;2021;6;57.0;63
+2022-2023;73;Tecnología;Institutos Profesionales;Ingeniería en Sonido;2021;7;158.0;165
+2022-2023;74;Tecnología;Institutos Profesionales;Ingeniería en Telecomunicaciones;2021;13;241.0;254
+2022-2023;75;Tecnología;Institutos Profesionales;Ingeniería Industrial;2021;37;446.0;483
+2022-2023;76;Tecnología;Institutos Profesionales;Ingeniería Mecánica;2021;29;907.0;936
+2022-2023;77;Salud;Institutos Profesionales;Kinesiología;2021;90;53.0;143
+2022-2023;78;Salud;Institutos Profesionales;Nutrición y Dietética;2021;45;7.0;52
+2022-2023;79;Educación;Institutos Profesionales;Psicopedagogía;2021;1302;96.0;1398
+2022-2023;80;Ciencias Sociales;Institutos Profesionales;Publicidad;2021;192;212.0;404
+2022-2023;81;Ciencias Sociales;Institutos Profesionales;Relaciones Públicas;2021;165;65.0;230
+2022-2023;82;Agropecuaria;Institutos Profesionales;Técnico Agropecuario;2021;106;113.0;219
+2022-2023;83;Educación;Institutos Profesionales;Técnico Asistente del Educador de Párvulos;2021;4646;4.0;4650
+2022-2023;84;Educación;Institutos Profesionales;Técnico Asistente del Educador Diferencial;2021;1809;60.0;1869
+2022-2023;85;Salud;Institutos Profesionales;Técnico Dental y Asistente de Odontología;2021;1064;125.0;1189
+2022-2023;86;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Empresas;2021;2903;1625.0;4528
+2022-2023;87;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Recursos Humanos y Personal;2021;688;212.0;900
+2022-2023;88;Tecnología;Institutos Profesionales;Técnico en Administración de Redes y Soporte;2021;24;278.0;302
+2022-2023;89;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Ventas;2021;33;23.0;56
+2022-2023;90;Administración y Comercio;Institutos Profesionales;Técnico en Administración Financiera y Finanzas;2021;624;305.0;929
+2022-2023;91;Ciencias Sociales;Institutos Profesionales;Técnico en Administración Pública o Municipal;2021;234;141.0;375
+2022-2023;92;Tecnología;Institutos Profesionales;Técnico en Alimentos;2021;50;27.0;77
+2022-2023;93;Administración y Comercio;Institutos Profesionales;Técnico en Comercio Exterior;2021;136;152.0;288
+2022-2023;94;Tecnología;Institutos Profesionales;Técnico en Computación e Informática;2021;136;961.0;1097
+2022-2023;95;Arte y Arquitectura;Institutos Profesionales;Técnico en Comunicación Audiovisual;2021;92;220.0;312
+2022-2023;96;Tecnología;Institutos Profesionales;Técnico en Construcción y Obras Civiles;2021;217;1206.0;1423
+2022-2023;97;Administración y Comercio;Institutos Profesionales;Técnico en Contabilidad General;2021;889;422.0;1311
+2022-2023;98;Administración y Comercio;Institutos Profesionales;Técnico en Contabilidad Tributaria;2021;693;320.0;1013
+2022-2023;99;Educación;Institutos Profesionales;Técnico en Deporte, Recreación y Preparación Física;2021;256;755.0;1011
+2022-2023;100;Arte y Arquitectura;Institutos Profesionales;Técnico en Dibujo Arquitectónico;2021;96;153.0;249
+2022-2023;101;Arte y Arquitectura;Institutos Profesionales;Técnico en Diseño Gráfico;2021;99;113.0;212
+2022-2023;102;Tecnología;Institutos Profesionales;Técnico en Electricidad y Electricidad Industrial;2021;21;1014.0;1035
+2022-2023;103;Tecnología;Institutos Profesionales;Técnico en Electromecánica;2021;4;206.0;210
+2022-2023;104;Salud;Institutos Profesionales;Técnico en Enfermería;2021;5585;857.0;6442
+2022-2023;105;Salud;Institutos Profesionales;Técnico en Farmacia;2021;136;63.0;199
+2022-2023;106;Arte y Arquitectura;Institutos Profesionales;Técnico en Fotografía;2021;37;40.0;77
+2022-2023;107;Administración y Comercio;Institutos Profesionales;Técnico en Gastronomía y Cocina;2021;275;195.0;470
+2022-2023;108;Ciencias Básicas;Institutos Profesionales;Técnico en Geología;2021;19;44.0;63
+2022-2023;109;Tecnología;Institutos Profesionales;Técnico en Instrumentación, Automatización y Control Industrial;2021;26;504.0;530
+2022-2023;110;Salud;Institutos Profesionales;Técnico en Laboratorio Clínico;2021;349;64.0;413
+2022-2023;111;Administración y Comercio;Institutos Profesionales;Técnico en Logística;2021;378;739.0;1117
+2022-2023;112;Tecnología;Institutos Profesionales;Técnico en Mantenimiento Industrial;2021;6;311.0;317
+2022-2023;113;Salud;Institutos Profesionales;Técnico en Masoterapia;2021;233;51.0;284
+2022-2023;114;Tecnología;Institutos Profesionales;Técnico en Mecánica Automotriz;2021;36;1022.0;1058
+2022-2023;115;Tecnología;Institutos Profesionales;Técnico en Minería;2021;84;349.0;433
+2022-2023;116;Arte y Arquitectura;Institutos Profesionales;Técnico en Peluquería y Estética;2021;797;29.0;826
+2022-2023;117;Salud;Institutos Profesionales;Técnico en Podología;2021;179;18.0;197
+2022-2023;118;Tecnología;Institutos Profesionales;Técnico en Prevención de Riesgos;2021;304;384.0;688
+2022-2023;119;Salud;Institutos Profesionales;Técnico en Radiología y Radioterapia;2021;138;48.0;186
+2022-2023;120;Ciencias Sociales;Institutos Profesionales;Técnico en Relaciones Públicas;2021;110;46.0;156
+2022-2023;121;Ciencias Sociales;Institutos Profesionales;Técnico en Servicio Social;2021;2647;426.0;3073
+2022-2023;122;Tecnología;Institutos Profesionales;Técnico en Sonido;2021;12;217.0;229
+2022-2023;123;Tecnología;Institutos Profesionales;Técnico en Telecomunicaciones;2021;17;178.0;195
+2022-2023;124;Tecnología;Institutos Profesionales;Técnico en Topografía;2021;37;182.0;219
+2022-2023;125;Administración y Comercio;Institutos Profesionales;Técnico en Turismo y Hotelería;2021;405;248.0;653
+2022-2023;126;Derecho;Institutos Profesionales;Técnico Jurídico;2021;293;113.0;406
+2022-2023;127;Salud;Institutos Profesionales;Técnico Laboratorista Dental;2021;49;26.0;75
+2022-2023;128;Agropecuaria;Institutos Profesionales;Técnico Veterinario;2021;186;43.0;229
+2022-2023;129;Salud;Institutos Profesionales;Terapia Ocupacional;2021;172;22.0;194
+2022-2023;130;Ciencias Sociales;Institutos Profesionales;Trabajo Social;2021;2140;367.0;2507
+2021-2022;1;Administración y Comercio;Centro de Formación Técnica;Secretariado Bilingüe;2020;114;7.0;121
+2021-2022;2;Agropecuaria;Centro de Formación Técnica;Técnico Agropecuario;2020;249;377.0;626
+2021-2022;3;Educación;Centro de Formación Técnica;Técnico Asistente del Educador de Párvulos;2020;2459;1.0;2460
+2021-2022;4;Educación;Centro de Formación Técnica;Técnico Asistente del Educador Diferencial;2020;796;28.0;824
+2021-2022;5;Salud;Centro de Formación Técnica;Técnico Dental y Asistente de Odontología;2020;352;54.0;406
+2021-2022;6;Administración y Comercio;Centro de Formación Técnica;Técnico en Administración de Empresas;2020;1761;896.0;2657
+2021-2022;7;Administración y Comercio;Centro de Formación Técnica;Técnico en Administración de Recursos Humanos y Personal;2020;324;70.0;394
+2021-2022;8;Tecnología;Centro de Formación Técnica;Técnico en Administración de Redes y Soporte;2020;7;41.0;48
+2021-2022;9;Administración y Comercio;Centro de Formación Técnica;Técnico en Administración de Ventas;2020;27;11.0;38
+2021-2022;10;Administración y Comercio;Centro de Formación Técnica;Técnico en Administración Financiera y Finanzas;2020;19;8.0;27
+2021-2022;11;Ciencias Sociales;Centro de Formación Técnica;Técnico en Administración Pública o Municipal;2020;250;108.0;358
+2021-2022;12;Administración y Comercio;Centro de Formación Técnica;Técnico en Comercio Exterior;2020;96;79.0;175
+2021-2022;13;Tecnología;Centro de Formación Técnica;Técnico en Computación e Informática;2020;53;420.0;473
+2021-2022;14;Tecnología;Centro de Formación Técnica;Técnico en Construcción y Obras Civiles;2020;109;654.0;763
+2021-2022;15;Administración y Comercio;Centro de Formación Técnica;Técnico en Contabilidad General;2020;449;184.0;633
+2021-2022;16;Educación;Centro de Formación Técnica;Técnico en Deporte, Recreación y Preparación Física;2020;87;199.0;286
+2021-2022;17;Tecnología;Centro de Formación Técnica;Técnico en Electricidad y Electricidad Industrial;2020;18;629.0;647
+2021-2022;18;Tecnología;Centro de Formación Técnica;Técnico en Electrónica y Electrónica Industrial;2020;1;36.0;37
+2021-2022;19;Salud;Centro de Formación Técnica;Técnico en Enfermería;2020;2715;482.0;3197
+2021-2022;20;Salud;Centro de Formación Técnica;Técnico en Farmacia;2020;130;32.0;162
+2021-2022;21;Administración y Comercio;Centro de Formación Técnica;Técnico en Gastronomía y Cocina;2020;523;329.0;852
+2021-2022;22;Tecnología;Centro de Formación Técnica;Técnico en Instrumentación, Automatización y Control Industrial;2020;30;507.0;537
+2021-2022;23;Salud;Centro de Formación Técnica;Técnico en Laboratorio Clínico;2020;180;44.0;224
+2021-2022;24;Administración y Comercio;Centro de Formación Técnica;Técnico en Logística;2020;267;423.0;690
+2021-2022;25;Tecnología;Centro de Formación Técnica;Técnico en Mantenimiento Industrial;2020;23;759.0;782
+2021-2022;26;Tecnología;Centro de Formación Técnica;Técnico en Mecánica Automotriz;2020;30;969.0;999
+2021-2022;27;Tecnología;Centro de Formación Técnica;Técnico en Mecánica Industrial;2020;4;129.0;133
+2021-2022;28;Tecnología;Centro de Formación Técnica;Técnico en Minería y Metalurgia;2020;57;145.0;202
+2021-2022;29;Salud;Centro de Formación Técnica;Técnico en Podología;2020;148;16.0;164
+2021-2022;30;Tecnología;Centro de Formación Técnica;Técnico en Prevención de Riesgos;2020;255;271.0;526
+2021-2022;31;Tecnología;Centro de Formación Técnica;Técnico en Procesos Industriales;2020;1;40.0;41
+2021-2022;32;Arte y Arquitectura;Centro de Formación Técnica;Técnico en Producción Gráfica y Multimedia;2020;43;39.0;82
+2021-2022;33;Ciencias Básicas;Centro de Formación Técnica;Técnico en Química (Análisis e Industrial);2020;45;28.0;73
+2021-2022;34;Salud;Centro de Formación Técnica;Técnico en Radiología y Radioterapia;2020;45;16.0;61
+2021-2022;35;Tecnología;Centro de Formación Técnica;Técnico en Refrigeración y Climatización;2020;4;55.0;59
+2021-2022;36;Ciencias Sociales;Centro de Formación Técnica;Técnico en Servicio Social;2020;547;90.0;637
+2021-2022;37;Tecnología;Centro de Formación Técnica;Técnico en Telecomunicaciones;2020;15;187.0;202
+2021-2022;38;Salud;Centro de Formación Técnica;Técnico en Terapias Naturales y Naturopatía;2020;51;4.0;55
+2021-2022;39;Tecnología;Centro de Formación Técnica;Técnico en Topografía;2020;48;215.0;263
+2021-2022;40;Administración y Comercio;Centro de Formación Técnica;Técnico en Turismo y Hotelería;2020;246;150.0;396
+2021-2022;41;Derecho;Centro de Formación Técnica;Técnico Jurídico;2020;83;30.0;113
+2021-2022;42;Salud;Centro de Formación Técnica;Técnico Laboratorista Dental;2020;41;8.0;49
+2021-2022;43;Agropecuaria;Centro de Formación Técnica;Técnico Veterinario;2020;123;50.0;173
+2021-2022;44;Administración y Comercio;Instituto Profesional;Administración de Empresas e Ing. Asociadas;2020;2682;1539.0;4221
+2021-2022;45;Administración y Comercio;Instituto Profesional;Administración Gastronómica;2020;183;134.0;317
+2021-2022;46;Ciencias Sociales;Instituto Profesional;Administración Pública;2020;292;186.0;478
+2021-2022;47;Administración y Comercio;Instituto Profesional;Administración Turística y Hotelera;2020;251;118.0;369
+2021-2022;48;Arte y Arquitectura;Instituto Profesional;Comunicación Audiovisual y/o Multimedia;2020;96;195.0;291
+2021-2022;49;Tecnología;Instituto Profesional;Construcción Civil;2020;264;1268.0;1532
+2021-2022;50;Administración y Comercio;Instituto Profesional;Contador Auditor;2020;1160;598.0;1758
+2021-2022;51;Arte y Arquitectura;Instituto Profesional;Diseño de Ambientes e Interiores;2020;70;15.0;85
+2021-2022;52;Arte y Arquitectura;Instituto Profesional;Diseño de Vestuario;2020;105;7.0;112
+2021-2022;53;Arte y Arquitectura;Instituto Profesional;Diseño Gráfico;2020;327;274.0;601
+2021-2022;54;Tecnología;Instituto Profesional;Diseño Industrial;2020;57;49.0;106
+2021-2022;55;Agropecuaria;Instituto Profesional;Ingeniería Agrícola;2020;161;296.0;457
+2021-2022;56;Tecnología;Instituto Profesional;Ingeniería en Automatización, Instrumentación y Control;2020;0;38.0;38
+2021-2022;57;Administración y Comercio;Instituto Profesional;Ingeniería en Comercio Exterior;2020;161;125.0;286
+2021-2022;58;Tecnología;Instituto Profesional;Ingeniería en Computación e Informática;2020;183;1329.0;1512
+2021-2022;59;Tecnología;Instituto Profesional;Ingeniería en Conectividad y Redes;2020;19;368.0;387
+2021-2022;60;Tecnología;Instituto Profesional;Ingeniería en Construcción;2020;221;844.0;1065
+2021-2022;61;Tecnología;Instituto Profesional;Ingeniería en Electricidad;2020;28;723.0;751
+2021-2022;62;Administración y Comercio;Instituto Profesional;Ingeniería en Finanzas;2020;170;109.0;279
+2021-2022;63;Ciencias Sociales;Instituto Profesional;Ingeniería en Gestión Pública;2020;123;69.0;192
+2021-2022;64;Administración y Comercio;Instituto Profesional;Ingeniería en Logística;2020;110;209.0;319
+2021-2022;65;Administración y Comercio;Instituto Profesional;Ingeniería en Marketing;2020;298;281.0;579
+2021-2022;66;Tecnología;Instituto Profesional;Ingeniería en Mecánica Automotriz;2020;35;1384.0;1419
+2021-2022;67;Tecnología;Instituto Profesional;Ingeniería en Medio Ambiente;2020;48;44.0;92
+2021-2022;68;Tecnología;Instituto Profesional;Ingeniería en Minas y Metalurgia;2020;120;337.0;457
+2021-2022;69;Tecnología;Instituto Profesional;Ingeniería en Prevención de Riesgos;2020;1391;1599.0;2990
+2021-2022;70;Tecnología;Instituto Profesional;Ingeniería en Química;2020;56;32.0;88
+2021-2022;71;Administración y Comercio;Instituto Profesional;Ingeniería en Recursos Humanos;2020;1043;300.0;1343
+2021-2022;72;Tecnología;Instituto Profesional;Ingeniería en Refrigeración y Climatización;2020;1;36.0;37
+2021-2022;73;Administración y Comercio;Instituto Profesional;Ingeniería en Seguridad Privada;2020;48;247.0;295
+2021-2022;74;Tecnología;Instituto Profesional;Ingeniería en Telecomunicaciones;2020;17;177.0;194
+2021-2022;75;Tecnología;Instituto Profesional;Ingeniería Industrial;2020;28;257.0;285
+2021-2022;76;Tecnología;Instituto Profesional;Ingeniería Mecánica;2020;17;519.0;536
+2021-2022;77;Salud;Instituto Profesional;Kinesiología;2020;19;14.0;33
+2021-2022;78;Educación;Instituto Profesional;Psicopedagogía;2020;1199;111.0;1310
+2021-2022;79;Ciencias Sociales;Instituto Profesional;Publicidad;2020;88;97.0;185
+2021-2022;80;Ciencias Sociales;Instituto Profesional;Relaciones Públicas;2020;103;50.0;153
+2021-2022;81;Agropecuaria;Instituto Profesional;Técnico Agropecuario;2020;81;118.0;199
+2021-2022;82;Educación;Instituto Profesional;Técnico Asistente del Educador de Párvulos;2020;4165;1.0;4166
+2021-2022;83;Educación;Instituto Profesional;Técnico Asistente del Educador Diferencial;2020;1268;42.0;1310
+2021-2022;84;Salud;Instituto Profesional;Técnico Dental y Asistente de Odontología;2020;842;116.0;958
+2021-2022;85;Administración y Comercio;Instituto Profesional;Técnico en Administración de Empresas;2020;2973;1715.0;4688
+2021-2022;86;Administración y Comercio;Instituto Profesional;Técnico en Administración de Recursos Humanos y Personal;2020;640;159.0;799
+2021-2022;87;Tecnología;Instituto Profesional;Técnico en Administración de Redes y Soporte;2020;28;321.0;349
+2021-2022;88;Administración y Comercio;Instituto Profesional;Técnico en Administración de Ventas;2020;28;19.0;47
+2021-2022;89;Administración y Comercio;Instituto Profesional;Técnico en Administración Financiera y Finanzas;2020;498;293.0;791
+2021-2022;90;Humanidades;Instituto Profesional;Técnico en Bibliotecas y Centros de Documentación;2020;6;5.0;11
+2021-2022;91;Administración y Comercio;Instituto Profesional;Técnico en Comercio Exterior;2020;140;142.0;282
+2021-2022;92;Tecnología;Instituto Profesional;Técnico en Computación e Informática;2020;104;732.0;836
+2021-2022;93;Arte y Arquitectura;Instituto Profesional;Técnico en Comunicación Audiovisual;2020;60;137.0;197
+2021-2022;94;Tecnología;Instituto Profesional;Técnico en Construcción y Obras Civiles;2020;218;1073.0;1291
+2021-2022;95;Administración y Comercio;Instituto Profesional;Técnico en Contabilidad General;2020;623;296.0;919
+2021-2022;96;Administración y Comercio;Instituto Profesional;Técnico en Contabilidad Tributaria;2020;527;198.0;725
+2021-2022;97;Educación;Instituto Profesional;Técnico en Deporte, Recreación y Preparación Física;2020;201;553.0;754
+2021-2022;98;Arte y Arquitectura;Instituto Profesional;Técnico en Dibujo Arquitectónico;2020;85;131.0;216
+2021-2022;99;Arte y Arquitectura;Instituto Profesional;Técnico en Diseño Gráfico;2020;83;80.0;163
+2021-2022;100;Tecnología;Instituto Profesional;Técnico en Electricidad y Electricidad Industrial;2020;38;869.0;907
+2021-2022;101;Tecnología;Instituto Profesional;Técnico en Electromecánica;2020;4;157.0;161
+2021-2022;102;Salud;Instituto Profesional;Técnico en Enfermería;2020;4349;651.0;5000
+2021-2022;103;Administración y Comercio;Instituto Profesional;Técnico en Gastronomía y Cocina;2020;191;129.0;320
+2021-2022;104;Tecnología;Instituto Profesional;Técnico en Instrumentación, Automatización y Control Industrial;2020;14;238.0;252
+2021-2022;105;Salud;Instituto Profesional;Técnico en Laboratorio Clínico;2020;134;32.0;166
+2021-2022;106;Administración y Comercio;Instituto Profesional;Técnico en Logística;2020;234;436.0;670
+2021-2022;107;Tecnología;Instituto Profesional;Técnico en Mantenimiento Industrial;2020;5;228.0;233
+2021-2022;108;Salud;Instituto Profesional;Técnico en Masoterapia;2020;80;24.0;104
+2021-2022;109;Tecnología;Instituto Profesional;Técnico en Mecánica Automotriz;2020;30;620.0;650
+2021-2022;110;Tecnología;Instituto Profesional;Técnico en Minería y Metalurgia;2020;86;311.0;397
+2021-2022;111;Salud;Instituto Profesional;Técnico en Nutrición y Dietética;2020;25;6.0;31
+2021-2022;112;Arte y Arquitectura;Instituto Profesional;Técnico en Peluquería y Estética;2020;604;29.0;633
+2021-2022;113;Salud;Instituto Profesional;Técnico en Podología;2020;125;11.0;136
+2021-2022;114;Tecnología;Instituto Profesional;Técnico en Prevención de Riesgos;2020;314;386.0;700
+2021-2022;115;Salud;Instituto Profesional;Técnico en Radiología y Radioterapia;2020;87;31.0;118
+2021-2022;116;Ciencias Sociales;Instituto Profesional;Técnico en Relaciones Públicas;2020;120;36.0;156
+2021-2022;117;Ciencias Sociales;Instituto Profesional;Técnico en Servicio Social;2020;1958;365.0;2323
+2021-2022;118;Tecnología;Instituto Profesional;Técnico en Sonido;2020;8;127.0;135
+2021-2022;119;Tecnología;Instituto Profesional;Técnico en Telecomunicaciones;2020;1;48.0;49
+2021-2022;120;Tecnología;Instituto Profesional;Técnico en Topografía;2020;42;163.0;205
+2021-2022;121;Administración y Comercio;Instituto Profesional;Técnico en Turismo y Hotelería;2020;418;212.0;630
+2021-2022;122;Derecho;Instituto Profesional;Técnico Jurídico;2020;246;91.0;337
+2021-2022;123;Salud;Instituto Profesional;Técnico Laboratorista Dental;2020;64;24.0;88
+2021-2022;124;Agropecuaria;Instituto Profesional;Técnico Veterinario;2020;93;21.0;114
+2021-2022;125;Salud;Instituto Profesional;Terapia Ocupacional;2020;61;7.0;68
+2021-2022;126;Ciencias Sociales;Instituto Profesional;Trabajo Social;2020;1594;306.0;1900
+2020-2021;1;Administración y Comercio;Centro de Formación Técnica;Secretariado Bilingüe;2019;169;7.0;176
+2020-2021;2;Salud;Centro de Formación Técnica;Técnico Agente o Visitador Médico;2019;17;5.0;22
+2020-2021;3;Agropecuaria;Centro de Formación Técnica;Técnico Agropecuario;2019;309;493.0;802
+2020-2021;4;Educación;Centro de Formación Técnica;Técnico Asistente del Educador de Párvulos;2019;2949;1.0;2950
+2020-2021;5;Educación;Centro de Formación Técnica;Técnico Asistente del Educador Diferencial;2019;1070;41.0;1111
+2020-2021;6;Salud;Centro de Formación Técnica;Técnico Dental y Asistente de Odontología;2019;592;59.0;651
+2020-2021;7;Administración y Comercio;Centro de Formación Técnica;Técnico en Administración de Empresas;2019;2306;1303.0;3609
+2020-2021;8;Administración y Comercio;Centro de Formación Técnica;Técnico en Administración de Recursos Humanos y Personal;2019;400;76.0;476
+2020-2021;9;Tecnología;Centro de Formación Técnica;Técnico en Administración de Redes y Soporte;2019;3;39.0;42
+2020-2021;10;Administración y Comercio;Centro de Formación Técnica;Técnico en Administración de Ventas;2019;50;29.0;79
+2020-2021;11;Administración y Comercio;Centro de Formación Técnica;Técnico en Administración Financiera y Finanzas;2019;52;23.0;75
+2020-2021;12;Ciencias Sociales;Centro de Formación Técnica;Técnico en Administración Pública o Municipal;2019;146;56.0;202
+2020-2021;13;Administración y Comercio;Centro de Formación Técnica;Técnico en Comercio Exterior;2019;104;80.0;184
+2020-2021;14;Tecnología;Centro de Formación Técnica;Técnico en Computación e Informática;2019;66;596.0;662
+2020-2021;15;Tecnología;Centro de Formación Técnica;Técnico en Construcción y Obras Civiles;2019;203;909.0;1112
+2020-2021;16;Administración y Comercio;Centro de Formación Técnica;Técnico en Contabilidad General;2019;504;190.0;694
+2020-2021;17;Educación;Centro de Formación Técnica;Técnico en Deporte, Recreación y Preparación Física;2019;214;560.0;774
+2020-2021;18;Tecnología;Centro de Formación Técnica;Técnico en Electricidad y Electricidad Industrial;2019;33;985.0;1018
+2020-2021;19;Tecnología;Centro de Formación Técnica;Técnico en Electrónica y Electrónica Industrial;2019;0;85.0;85
+2020-2021;20;Salud;Centro de Formación Técnica;Técnico en Enfermería;2019;3942;748.0;4690
+2020-2021;21;Salud;Centro de Formación Técnica;Técnico en Farmacia;2019;86;25.0;111
+2020-2021;22;Administración y Comercio;Centro de Formación Técnica;Técnico en Gastronomía y Cocina;2019;1243;801.0;2044
+2020-2021;23;Ciencias Básicas;Centro de Formación Técnica;Técnico en Geominería;2019;18;18.0;36
+2020-2021;24;Tecnología;Centro de Formación Técnica;Técnico en Instrumentación, Automatización y Control Industrial;2019;34;796.0;830
+2020-2021;25;Salud;Centro de Formación Técnica;Técnico en Laboratorio Clínico;2019;315;64.0;379
+2020-2021;26;Administración y Comercio;Centro de Formación Técnica;Técnico en Logística;2019;277;457.0;734
+2020-2021;27;Tecnología;Centro de Formación Técnica;Técnico en Mantenimiento Industrial;2019;47;1339.0;1386
+2020-2021;28;Tecnología;Centro de Formación Técnica;Técnico en Mecánica Automotriz;2019;47;1907.0;1954
+2020-2021;29;Tecnología;Centro de Formación Técnica;Técnico en Mecánica Industrial;2019;2;260.0;262
+2020-2021;30;Tecnología;Centro de Formación Técnica;Técnico en Minería y Metalurgia;2019;111;235.0;346
+2020-2021;31;Salud;Centro de Formación Técnica;Técnico en Podología;2019;251;23.0;274
+2020-2021;32;Tecnología;Centro de Formación Técnica;Técnico en Prevención de Riesgos;2019;677;650.0;1327
+2020-2021;33;Tecnología;Centro de Formación Técnica;Técnico en Procesos Industriales;2019;1;103.0;104
+2020-2021;34;Arte y Arquitectura;Centro de Formación Técnica;Técnico en Producción Gráfica y Multimedia;2019;56;69.0;125
+2020-2021;35;Ciencias Básicas;Centro de Formación Técnica;Técnico en Química (Análisis e Industrial);2019;82;43.0;125
+2020-2021;36;Salud;Centro de Formación Técnica;Técnico en Radiología y Radioterapia;2019;41;20.0;61
+2020-2021;37;Tecnología;Centro de Formación Técnica;Técnico en Refrigeración y Climatización;2019;4;93.0;97
+2020-2021;38;Ciencias Sociales;Centro de Formación Técnica;Técnico en Servicio Social;2019;441;79.0;520
+2020-2021;39;Tecnología;Centro de Formación Técnica;Técnico en Telecomunicaciones;2019;24;324.0;348
+2020-2021;40;Salud;Centro de Formación Técnica;Técnico en Terapias Naturales y Naturopatía;2019;106;18.0;124
+2020-2021;41;Tecnología;Centro de Formación Técnica;Técnico en Topografía;2019;96;367.0;463
+2020-2021;42;Administración y Comercio;Centro de Formación Técnica;Técnico en Turismo y Hotelería;2019;326;229.0;555
+2020-2021;43;Derecho;Centro de Formación Técnica;Técnico Jurídico;2019;165;46.0;211
+2020-2021;44;Salud;Centro de Formación Técnica;Técnico Laboratorista Dental;2019;88;35.0;123
+2020-2021;45;Agropecuaria;Centro de Formación Técnica;Técnico Veterinario;2019;190;86.0;276
+2020-2021;46;Administración y Comercio;Instituto Profesional;Administración de Empresas e Ing. Asociadas;2019;2742;1585.0;4327
+2020-2021;47;Administración y Comercio;Instituto Profesional;Administración Gastronómica;2019;413;287.0;700
+2020-2021;48;Ciencias Sociales;Instituto Profesional;Administración Pública;2019;168;123.0;291
+2020-2021;49;Administración y Comercio;Instituto Profesional;Administración Turística y Hotelera;2019;372;161.0;533
+2020-2021;50;Arte y Arquitectura;Instituto Profesional;Comunicación Audiovisual y/o Multimedia;2019;105;212.0;317
+2020-2021;51;Tecnología;Instituto Profesional;Construcción Civil;2019;286;1435.0;1721
+2020-2021;52;Administración y Comercio;Instituto Profesional;Contador Auditor;2019;1258;748.0;2006
+2020-2021;53;Arte y Arquitectura;Instituto Profesional;Diseño de Ambientes e Interiores;2019;87;21.0;108
+2020-2021;54;Arte y Arquitectura;Instituto Profesional;Diseño de Vestuario;2019;198;11.0;209
+2020-2021;55;Arte y Arquitectura;Instituto Profesional;Diseño Gráfico;2019;384;369.0;753
+2020-2021;56;Tecnología;Instituto Profesional;Diseño Industrial;2019;59;74.0;133
+2020-2021;57;Arte y Arquitectura;Instituto Profesional;Fotografía;2019;47;30.0;77
+2020-2021;58;Agropecuaria;Instituto Profesional;Ingeniería Agrícola;2019;182;340.0;522
+2020-2021;59;Administración y Comercio;Instituto Profesional;Ingeniería en Comercio Exterior;2019;150;108.0;258
+2020-2021;60;Tecnología;Instituto Profesional;Ingeniería en Computación e Informática;2019;131;1329.0;1460
+2020-2021;61;Tecnología;Instituto Profesional;Ingeniería en Conectividad y Redes;2019;34;486.0;520
+2020-2021;62;Tecnología;Instituto Profesional;Ingeniería en Construcción;2019;191;803.0;994
+2020-2021;63;Tecnología;Instituto Profesional;Ingeniería en Electricidad;2019;12;433.0;445
+2020-2021;64;Administración y Comercio;Instituto Profesional;Ingeniería en Finanzas;2019;176;139.0;315
+2020-2021;65;Ciencias Sociales;Instituto Profesional;Ingeniería en Gestión Pública;2019;184;79.0;263
+2020-2021;66;Administración y Comercio;Instituto Profesional;Ingeniería en Logística;2019;64;185.0;249
+2020-2021;67;Administración y Comercio;Instituto Profesional;Ingeniería en Marketing;2019;299;278.0;577
+2020-2021;68;Tecnología;Instituto Profesional;Ingeniería en Mecánica Automotriz;2019;46;2029.0;2075
+2020-2021;69;Tecnología;Instituto Profesional;Ingeniería en Medio Ambiente;2019;73;38.0;111
+2020-2021;70;Tecnología;Instituto Profesional;Ingeniería en Minas y Metalurgia;2019;227;573.0;800
+2020-2021;71;Tecnología;Instituto Profesional;Ingeniería en Prevención de Riesgos;2019;2143;2245.0;4388
+2020-2021;72;Tecnología;Instituto Profesional;Ingeniería en Química;2019;54;19.0;73
+2020-2021;73;Administración y Comercio;Instituto Profesional;Ingeniería en Recursos Humanos;2019;1083;287.0;1370
+2020-2021;74;Tecnología;Instituto Profesional;Ingeniería en Refrigeración y Climatización;2019;0;43.0;43
+2020-2021;75;Tecnología;Instituto Profesional;Ingeniería en Sonido;2019;6;104.0;110
+2020-2021;76;Tecnología;Instituto Profesional;Ingeniería en Telecomunicaciones;2019;18;222.0;240
+2020-2021;77;Tecnología;Instituto Profesional;Ingeniería Industrial;2019;21;143.0;164
+2020-2021;78;Tecnología;Instituto Profesional;Ingeniería Mecánica;2019;17;698.0;715
+2020-2021;79;Salud;Instituto Profesional;Kinesiología;2019;98;89.0;187
+2020-2021;80;Arte y Arquitectura;Instituto Profesional;Música, Canto o Danza;2019;24;50.0;74
+2020-2021;81;Salud;Instituto Profesional;Nutrición y Dietética;2019;62;11.0;73
+2020-2021;82;Educación;Instituto Profesional;Pedagogía en Educación de Párvulos;2019;52;0.0;52
+2020-2021;83;Educación;Instituto Profesional;Pedagogía en Educación Diferencial;2019;99;3.0;102
+2020-2021;84;Educación;Instituto Profesional;Pedagogía en Idiomas;2019;25;16.0;41
+2020-2021;85;Educación;Instituto Profesional;Psicopedagogía;2019;1384;136.0;1520
+2020-2021;86;Ciencias Sociales;Instituto Profesional;Publicidad;2019;139;161.0;300
+2020-2021;87;Ciencias Sociales;Instituto Profesional;Relaciones Públicas;2019;104;42.0;146
+2020-2021;88;Agropecuaria;Instituto Profesional;Técnico Agropecuario;2019;99;156.0;255
+2020-2021;89;Educación;Instituto Profesional;Técnico Asistente del Educador de Párvulos;2019;4453;0.0;4453
+2020-2021;90;Educación;Instituto Profesional;Técnico Asistente del Educador Diferencial;2019;1211;42.0;1253
+2020-2021;91;Salud;Instituto Profesional;Técnico Dental y Asistente de Odontología;2019;1046;140.0;1186
+2020-2021;92;Administración y Comercio;Instituto Profesional;Técnico en Administración de Empresas;2019;3240;1766.0;5006
+2020-2021;93;Administración y Comercio;Instituto Profesional;Técnico en Administración de Recursos Humanos y Personal;2019;737;207.0;944
+2020-2021;94;Tecnología;Instituto Profesional;Técnico en Administración de Redes y Soporte;2019;27;400.0;427
+2020-2021;95;Administración y Comercio;Instituto Profesional;Técnico en Administración de Ventas;2019;37;41.0;78
+2020-2021;96;Administración y Comercio;Instituto Profesional;Técnico en Administración Financiera y Finanzas;2019;577;287.0;864
+2020-2021;97;Humanidades;Instituto Profesional;Técnico en Bibliotecas y Centros de Documentación;2019;45;22.0;67
+2020-2021;98;Administración y Comercio;Instituto Profesional;Técnico en Comercio Exterior;2019;140;133.0;273
+2020-2021;99;Tecnología;Instituto Profesional;Técnico en Computación e Informática;2019;101;868.0;969
+2020-2021;100;Arte y Arquitectura;Instituto Profesional;Técnico en Comunicación Audiovisual;2019;76;203.0;279
+2020-2021;101;Tecnología;Instituto Profesional;Técnico en Construcción y Obras Civiles;2019;309;1339.0;1648
+2020-2021;102;Administración y Comercio;Instituto Profesional;Técnico en Contabilidad General;2019;730;341.0;1071
+2020-2021;103;Administración y Comercio;Instituto Profesional;Técnico en Contabilidad Tributaria;2019;412;193.0;605
+2020-2021;104;Educación;Instituto Profesional;Técnico en Deporte, Recreación y Preparación Física;2019;276;1005.0;1281
+2020-2021;105;Arte y Arquitectura;Instituto Profesional;Técnico en Dibujo Arquitectónico;2019;90;117.0;207
+2020-2021;106;Arte y Arquitectura;Instituto Profesional;Técnico en Diseño Gráfico;2019;139;146.0;285
+2020-2021;107;Tecnología;Instituto Profesional;Técnico en Electricidad y Electricidad Industrial;2019;28;726.0;754
+2020-2021;108;Tecnología;Instituto Profesional;Técnico en Electromecánica;2019;11;310.0;321
+2020-2021;109;Salud;Instituto Profesional;Técnico en Enfermería;2019;5252;919.0;6171
+2020-2021;110;Arte y Arquitectura;Instituto Profesional;Técnico en Fotografía;2019;43;48.0;91
+2020-2021;111;Administración y Comercio;Instituto Profesional;Técnico en Gastronomía y Cocina;2019;270;182.0;452
+2020-2021;112;Tecnología;Instituto Profesional;Técnico en Instrumentación, Automatización y Control Industrial;2019;11;194.0;205
+2020-2021;113;Salud;Instituto Profesional;Técnico en Laboratorio Clínico;2019;217;45.0;262
+2020-2021;114;Administración y Comercio;Instituto Profesional;Técnico en Logística;2019;165;325.0;490
+2020-2021;115;Tecnología;Instituto Profesional;Técnico en Mantenimiento Industrial;2019;8;293.0;301
+2020-2021;116;Salud;Instituto Profesional;Técnico en Masoterapia;2019;246;89.0;335
+2020-2021;117;Tecnología;Instituto Profesional;Técnico en Mecánica Automotriz;2019;38;1116.0;1154
+2020-2021;118;Arte y Arquitectura;Instituto Profesional;Técnico en Peluquería y Estética;2019;681;20.0;701
+2020-2021;119;Tecnología;Instituto Profesional;Técnico en Prevención de Riesgos;2019;553;582.0;1135
+2020-2021;120;Salud;Instituto Profesional;Técnico en Radiología y Radioterapia;2019;101;36.0;137
+2020-2021;121;Ciencias Sociales;Instituto Profesional;Técnico en Relaciones Públicas;2019;141;57.0;198
+2020-2021;122;Ciencias Sociales;Instituto Profesional;Técnico en Servicio Social;2019;2178;404.0;2582
+2020-2021;123;Tecnología;Instituto Profesional;Técnico en Sonido;2019;16;263.0;279
+2020-2021;124;Tecnología;Instituto Profesional;Técnico en Telecomunicaciones;2019;2;79.0;81
+2020-2021;125;Tecnología;Instituto Profesional;Técnico en Topografía;2019;58;187.0;245
+2020-2021;126;Humanidades;Instituto Profesional;Técnico en Traducción e Interpretariado;2019;53;31.0;84
+2020-2021;127;Administración y Comercio;Instituto Profesional;Técnico en Turismo y Hotelería;2019;440;255.0;695
+2020-2021;128;Derecho;Instituto Profesional;Técnico Jurídico;2019;242;84.0;326
+2020-2021;129;Salud;Instituto Profesional;Técnico Laboratorista Dental;2019;91;40.0;131
+2020-2021;130;Agropecuaria;Instituto Profesional;Técnico Veterinario;2019;137;30.0;167
+2020-2021;131;Salud;Instituto Profesional;Terapia Ocupacional;2019;137;26.0;163
+2020-2021;132;Ciencias Sociales;Instituto Profesional;Trabajo Social;2019;1392;276.0;1668
+2019-2020;1;Administración y Comercio;Centros de Formación Técnica;Secretariado Bilingüe;2018;226;3.0;229
+2019-2020;2;Salud;Centros de Formación Técnica;Técnico Agente o Visitador Médico;2018;23;6.0;29
+2019-2020;3;Agropecuaria;Centros de Formación Técnica;Técnico Agropecuario;2018;310;554.0;864
+2019-2020;4;Educación;Centros de Formación Técnica;Técnico Asistente del Educador de Párvulos;2018;2778;1.0;2779
+2019-2020;5;Educación;Centros de Formación Técnica;Técnico Asistente del Educador Diferencial;2018;1067;31.0;1098
+2019-2020;6;Salud;Centros de Formación Técnica;Técnico Dental y Asistente de Odontología;2018;588;54.0;642
+2019-2020;7;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Empresas;2018;2145;1196.0;3341
+2019-2020;8;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Recursos Humanos y Personal;2018;444;109.0;553
+2019-2020;9;Tecnología;Centros de Formación Técnica;Técnico en Administración de Redes y Soporte;2018;9;91.0;100
+2019-2020;10;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Ventas;2018;56;23.0;79
+2019-2020;11;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración Financiera y Finanzas;2018;42;22.0;64
+2019-2020;12;Ciencias Sociales;Centros de Formación Técnica;Técnico en Administración Pública o Municipal;2018;181;73.0;254
+2019-2020;13;Administración y Comercio;Centros de Formación Técnica;Técnico en Comercio Exterior;2018;146;108.0;254
+2019-2020;14;Tecnología;Centros de Formación Técnica;Técnico en Computación e Informática;2018;97;501.0;598
+2019-2020;15;Tecnología;Centros de Formación Técnica;Técnico en Construcción y Obras Civiles;2018;187;822.0;1009
+2019-2020;16;Administración y Comercio;Centros de Formación Técnica;Técnico en Contabilidad General;2018;545;241.0;786
+2019-2020;17;Educación;Centros de Formación Técnica;Técnico en Deporte, Recreación y Preparación Física;2018;157;543.0;700
+2019-2020;18;Arte y Arquitectura;Centros de Formación Técnica;Técnico en Dibujo Arquitectónico;2018;6;23.0;29
+2019-2020;19;Tecnología;Centros de Formación Técnica;Técnico en Electricidad y Electricidad Industrial;2018;19;930.0;949
+2019-2020;20;Tecnología;Centros de Formación Técnica;Técnico en Electrónica y Electrónica Industrial;2018;7;138.0;145
+2019-2020;21;Salud;Centros de Formación Técnica;Técnico en Enfermería;2018;4530;727.0;5257
+2019-2020;22;Salud;Centros de Formación Técnica;Técnico en Farmacia;2018;122;32.0;154
+2019-2020;23;Administración y Comercio;Centros de Formación Técnica;Técnico en Gastronomía y Cocina;2018;1339;828.0;2167
+2019-2020;24;Ciencias Básicas;Centros de Formación Técnica;Técnico en Geominería;2018;14;23.0;37
+2019-2020;25;Tecnología;Centros de Formación Técnica;Técnico en Instrumentación, Automatización y Control Industrial;2018;24;672.0;696
+2019-2020;26;Salud;Centros de Formación Técnica;Técnico en Laboratorio Clínico;2018;365;62.0;427
+2019-2020;27;Administración y Comercio;Centros de Formación Técnica;Técnico en Logística;2018;253;453.0;706
+2019-2020;28;Tecnología;Centros de Formación Técnica;Técnico en Mantenimiento Industrial;2018;54;1327.0;1381
+2019-2020;29;Tecnología;Centros de Formación Técnica;Técnico en Mecánica Automotriz;2018;46;1894.0;1940
+2019-2020;30;Tecnología;Centros de Formación Técnica;Técnico en Mecánica Industrial;2018;6;244.0;250
+2019-2020;31;Tecnología;Centros de Formación Técnica;Técnico en Minería y Metalurgia;2018;82;238.0;320
+2019-2020;32;Salud;Centros de Formación Técnica;Técnico en Podología;2018;294;16.0;310
+2019-2020;33;Tecnología;Centros de Formación Técnica;Técnico en Prevención de Riesgos;2018;1114;1050.0;2164
+2019-2020;34;Tecnología;Centros de Formación Técnica;Técnico en Procesos Industriales;2018;0;91.0;91
+2019-2020;35;Arte y Arquitectura;Centros de Formación Técnica;Técnico en Producción Gráfica y Multimedia;2018;48;73.0;121
+2019-2020;36;Ciencias Básicas;Centros de Formación Técnica;Técnico en Química (Análisis e Industrial);2018;91;55.0;146
+2019-2020;37;Salud;Centros de Formación Técnica;Técnico en Radiología y Radioterapia;2018;33;8.0;41
+2019-2020;38;Tecnología;Centros de Formación Técnica;Técnico en Refrigeración y Climatización;2018;0;102.0;102
+2019-2020;39;Ciencias Sociales;Centros de Formación Técnica;Técnico en Servicio Social;2018;349;65.0;414
+2019-2020;40;Tecnología;Centros de Formación Técnica;Técnico en Telecomunicaciones;2018;21;352.0;373
+2019-2020;41;Salud;Centros de Formación Técnica;Técnico en Terapias Naturales y Naturopatía;2018;192;38.0;230
+2019-2020;42;Tecnología;Centros de Formación Técnica;Técnico en Topografía;2018;79;345.0;424
+2019-2020;43;Administración y Comercio;Centros de Formación Técnica;Técnico en Turismo y Hotelería;2018;371;191.0;562
+2019-2020;44;Derecho;Centros de Formación Técnica;Técnico Jurídico;2018;221;63.0;284
+2019-2020;45;Salud;Centros de Formación Técnica;Técnico Laboratorista Dental;2018;109;43.0;152
+2019-2020;46;Agropecuaria;Centros de Formación Técnica;Técnico Veterinario;2018;179;82.0;261
+2019-2020;47;Arte y Arquitectura;Institutos Profesionales;Actuación y Teatro;2018;76;32.0;108
+2019-2020;48;Administración y Comercio;Institutos Profesionales;Administración de Empresas e Ing. Asociadas;2018;2373;1528.0;3901
+2019-2020;49;Administración y Comercio;Institutos Profesionales;Administración Gastronómica;2018;365;222.0;587
+2019-2020;50;Ciencias Sociales;Institutos Profesionales;Administración Pública;2018;155;147.0;302
+2019-2020;51;Administración y Comercio;Institutos Profesionales;Administración Turística y Hotelera;2018;309;150.0;459
+2019-2020;52;Arte y Arquitectura;Institutos Profesionales;Comunicación Audiovisual y/o Multimedia;2018;145;280.0;425
+2019-2020;53;Tecnología;Institutos Profesionales;Construcción Civil;2018;273;1331.0;1604
+2019-2020;54;Administración y Comercio;Institutos Profesionales;Contador Auditor;2018;1306;763.0;2069
+2019-2020;55;Arte y Arquitectura;Institutos Profesionales;Diseño de Ambientes e Interiores;2018;103;20.0;123
+2019-2020;56;Arte y Arquitectura;Institutos Profesionales;Diseño de Vestuario;2018;170;16.0;186
+2019-2020;57;Arte y Arquitectura;Institutos Profesionales;Diseño Gráfico;2018;362;410.0;772
+2019-2020;58;Tecnología;Institutos Profesionales;Diseño Industrial;2018;55;75.0;130
+2019-2020;59;Arte y Arquitectura;Institutos Profesionales;Fotografía;2018;48;41.0;89
+2019-2020;60;Agropecuaria;Institutos Profesionales;Ingeniería Agrícola;2018;175;328.0;503
+2019-2020;61;Administración y Comercio;Institutos Profesionales;Ingeniería en Comercio Exterior;2018;175;150.0;325
+2019-2020;62;Tecnología;Institutos Profesionales;Ingeniería en Computación e Informática;2018;156;1295.0;1451
+2019-2020;63;Tecnología;Institutos Profesionales;Ingeniería en Conectividad y Redes;2018;38;529.0;567
+2019-2020;64;Tecnología;Institutos Profesionales;Ingeniería en Construcción;2018;190;830.0;1020
+2019-2020;65;Tecnología;Institutos Profesionales;Ingeniería en Electricidad;2018;18;644.0;662
+2019-2020;66;Administración y Comercio;Institutos Profesionales;Ingeniería en Finanzas;2018;131;94.0;225
+2019-2020;67;Ciencias Sociales;Institutos Profesionales;Ingeniería en Gestión Pública;2018;132;56.0;188
+2019-2020;68;Administración y Comercio;Institutos Profesionales;Ingeniería en Logística;2018;69;180.0;249
+2019-2020;69;Administración y Comercio;Institutos Profesionales;Ingeniería en Marketing;2018;303;240.0;543
+2019-2020;70;Tecnología;Institutos Profesionales;Ingeniería en Mecánica Automotriz;2018;38;1924.0;1962
+2019-2020;71;Tecnología;Institutos Profesionales;Ingeniería en Medio Ambiente;2018;59;46.0;105
+2019-2020;72;Tecnología;Institutos Profesionales;Ingeniería en Minas y Metalurgia;2018;170;414.0;584
+2019-2020;73;Tecnología;Institutos Profesionales;Ingeniería en Prevención de Riesgos;2018;2942;3267.0;6209
+2019-2020;74;Tecnología;Institutos Profesionales;Ingeniería en Química;2018;46;29.0;75
+2019-2020;75;Administración y Comercio;Institutos Profesionales;Ingeniería en Recursos Humanos;2018;1198;348.0;1546
+2019-2020;76;Tecnología;Institutos Profesionales;Ingeniería en Refrigeración y Climatización;2018;3;57.0;60
+2019-2020;77;Tecnología;Institutos Profesionales;Ingeniería en Sonido;2018;8;130.0;138
+2019-2020;78;Tecnología;Institutos Profesionales;Ingeniería en Telecomunicaciones;2018;16;226.0;242
+2019-2020;79;Tecnología;Institutos Profesionales;Ingeniería Industrial;2018;33;172.0;205
+2019-2020;80;Tecnología;Institutos Profesionales;Ingeniería Mecánica;2018;6;622.0;628
+2019-2020;81;Salud;Institutos Profesionales;Kinesiología;2018;76;48.0;124
+2019-2020;82;Arte y Arquitectura;Institutos Profesionales;Música, Canto o Danza;2018;38;75.0;113
+2019-2020;83;Salud;Institutos Profesionales;Nutrición y Dietética;2018;153;16.0;169
+2019-2020;84;Educación;Institutos Profesionales;Pedagogía en Educación Básica;2018;32;3.0;35
+2019-2020;85;Educación;Institutos Profesionales;Pedagogía en Educación de Párvulos;2018;256;0.0;256
+2019-2020;86;Educación;Institutos Profesionales;Pedagogía en Educación Diferencial;2018;116;2.0;118
+2019-2020;87;Educación;Institutos Profesionales;Pedagogía en Idiomas;2018;33;13.0;46
+2019-2020;88;Educación;Institutos Profesionales;Psicopedagogía;2018;1425;132.0;1557
+2019-2020;89;Ciencias Sociales;Institutos Profesionales;Publicidad;2018;147;177.0;324
+2019-2020;90;Ciencias Sociales;Institutos Profesionales;Relaciones Públicas;2018;187;67.0;254
+2019-2020;91;Agropecuaria;Institutos Profesionales;Técnico Agropecuario;2018;84;138.0;222
+2019-2020;92;Educación;Institutos Profesionales;Técnico Asistente del Educador de Párvulos;2018;3646;6.0;3652
+2019-2020;93;Educación;Institutos Profesionales;Técnico Asistente del Educador Diferencial;2018;1023;36.0;1059
+2019-2020;94;Salud;Institutos Profesionales;Técnico Dental y Asistente de Odontología;2018;953;103.0;1056
+2019-2020;95;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Empresas;2018;3573;1931.0;5504
+2019-2020;96;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Recursos Humanos y Personal;2018;912;234.0;1146
+2019-2020;97;Tecnología;Institutos Profesionales;Técnico en Administración de Redes y Soporte;2018;33;466.0;499
+2019-2020;98;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Ventas;2018;44;50.0;94
+2019-2020;99;Administración y Comercio;Institutos Profesionales;Técnico en Administración Financiera y Finanzas;2018;569;316.0;885
+2019-2020;100;Humanidades;Institutos Profesionales;Técnico en Bibliotecas y Centros de Documentación;2018;63;20.0;83
+2019-2020;101;Administración y Comercio;Institutos Profesionales;Técnico en Comercio Exterior;2018;154;157.0;311
+2019-2020;102;Tecnología;Institutos Profesionales;Técnico en Computación e Informática;2018;129;894.0;1023
+2019-2020;103;Arte y Arquitectura;Institutos Profesionales;Técnico en Comunicación Audiovisual;2018;99;243.0;342
+2019-2020;104;Tecnología;Institutos Profesionales;Técnico en Construcción y Obras Civiles;2018;264;1350.0;1614
+2019-2020;105;Administración y Comercio;Institutos Profesionales;Técnico en Contabilidad General;2018;846;397.0;1243
+2019-2020;106;Administración y Comercio;Institutos Profesionales;Técnico en Contabilidad Tributaria;2018;275;150.0;425
+2019-2020;107;Educación;Institutos Profesionales;Técnico en Deporte, Recreación y Preparación Física;2018;288;864.0;1152
+2019-2020;108;Arte y Arquitectura;Institutos Profesionales;Técnico en Dibujo Arquitectónico;2018;100;192.0;292
+2019-2020;109;Arte y Arquitectura;Institutos Profesionales;Técnico en Diseño Gráfico;2018;126;179.0;305
+2019-2020;110;Tecnología;Institutos Profesionales;Técnico en Electricidad y Electricidad Industrial;2018;13;959.0;972
+2019-2020;111;Tecnología;Institutos Profesionales;Técnico en Electromecánica;2018;6;341.0;347
+2019-2020;112;Salud;Institutos Profesionales;Técnico en Enfermería;2018;5494;895.0;6389
+2019-2020;113;Arte y Arquitectura;Institutos Profesionales;Técnico en Fotografía;2018;71;63.0;134
+2019-2020;114;Administración y Comercio;Institutos Profesionales;Técnico en Gastronomía y Cocina;2018;327;235.0;562
+2019-2020;115;Tecnología;Institutos Profesionales;Técnico en Instrumentación, Automatización y Control Industrial;2018;6;144.0;150
+2019-2020;116;Salud;Institutos Profesionales;Técnico en Laboratorio Clínico;2018;238;52.0;290
+2019-2020;117;Administración y Comercio;Institutos Profesionales;Técnico en Logística;2018;150;404.0;554
+2019-2020;118;Tecnología;Institutos Profesionales;Técnico en Mantenimiento Industrial;2018;10;346.0;356
+2019-2020;119;Salud;Institutos Profesionales;Técnico en Masoterapia;2018;303;78.0;381
+2019-2020;120;Tecnología;Institutos Profesionales;Técnico en Mecánica Automotriz;2018;30;1168.0;1198
+2019-2020;121;Arte y Arquitectura;Institutos Profesionales;Técnico en Peluquería y Estética;2018;731;20.0;751
+2019-2020;122;Tecnología;Institutos Profesionales;Técnico en Prevención de Riesgos;2018;1329;1142.0;2471
+2019-2020;123;Ciencias Sociales;Institutos Profesionales;Técnico en Publicidad;2018;15;11.0;26
+2019-2020;124;Salud;Institutos Profesionales;Técnico en Radiología y Radioterapia;2018;87;42.0;129
+2019-2020;125;Ciencias Sociales;Institutos Profesionales;Técnico en Relaciones Públicas;2018;132;69.0;201
+2019-2020;126;Ciencias Sociales;Institutos Profesionales;Técnico en Servicio Social;2018;1986;332.0;2318
+2019-2020;127;Tecnología;Institutos Profesionales;Técnico en Sonido;2018;24;250.0;274
+2019-2020;128;Tecnología;Institutos Profesionales;Técnico en Telecomunicaciones;2018;4;77.0;81
+2019-2020;129;Salud;Institutos Profesionales;Técnico en Terapias Naturales y Naturopatía;2018;45;10.0;55
+2019-2020;130;Tecnología;Institutos Profesionales;Técnico en Topografía;2018;65;254.0;319
+2019-2020;131;Humanidades;Institutos Profesionales;Técnico en Traducción e Interpretariado;2018;57;25.0;82
+2019-2020;132;Administración y Comercio;Institutos Profesionales;Técnico en Turismo y Hotelería;2018;509;219.0;728
+2019-2020;133;Derecho;Institutos Profesionales;Técnico Jurídico;2018;217;67.0;284
+2019-2020;134;Salud;Institutos Profesionales;Técnico Laboratorista Dental;2018;97;46.0;143
+2019-2020;135;Agropecuaria;Institutos Profesionales;Técnico Veterinario;2018;122;35.0;157
+2019-2020;136;Salud;Institutos Profesionales;Terapia Ocupacional;2018;136;22.0;158
+2019-2020;137;Ciencias Sociales;Institutos Profesionales;Trabajo Social;2018;2569;491.0;3060
+2019-2020;138;Humanidades;Institutos Profesionales;Traducción e Interpretación;2018;31;13.0;44
+2018-2019;1;Administración y Comercio;Centros de Formación Técnica;Secretariado Bilingüe;2017;236;3.0;239
+2018-2019;2;Administración y Comercio;Centros de Formación Técnica;Secretariado Ejecutivo;2017;27;1.0;28
+2018-2019;3;Salud;Centros de Formación Técnica;Técnico Agente o Visitador Médico;2017;31;12.0;43
+2018-2019;4;Agropecuaria;Centros de Formación Técnica;Técnico Agropecuario;2017;262;416.0;678
+2018-2019;5;Educación;Centros de Formación Técnica;Técnico Asistente del Educador de Párvulos;2017;1940;3.0;1943
+2018-2019;6;Educación;Centros de Formación Técnica;Técnico Asistente del Educador Diferencial;2017;870;29.0;899
+2018-2019;7;Salud;Centros de Formación Técnica;Técnico Dental y Asistente de Odontología;2017;569;73.0;642
+2018-2019;8;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Empresas;2017;2009;1165.0;3174
+2018-2019;9;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Recursos Humanos y Personal;2017;507;115.0;622
+2018-2019;10;Tecnología;Centros de Formación Técnica;Técnico en Administración de Redes y Soporte;2017;13;114.0;127
+2018-2019;11;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Ventas;2017;51;34.0;85
+2018-2019;12;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración Financiera y Finanzas;2017;107;57.0;164
+2018-2019;13;Ciencias Sociales;Centros de Formación Técnica;Técnico en Administración Pública o Municipal;2017;176;62.0;238
+2018-2019;14;Tecnología;Centros de Formación Técnica;Técnico en Alimentos;2017;33;9.0;42
+2018-2019;15;Administración y Comercio;Centros de Formación Técnica;Técnico en Comercio Exterior;2017;182;137.0;319
+2018-2019;16;Tecnología;Centros de Formación Técnica;Técnico en Computación e Informática;2017;62;462.0;524
+2018-2019;17;Tecnología;Centros de Formación Técnica;Técnico en Construcción y Obras Civiles;2017;132;607.0;739
+2018-2019;18;Administración y Comercio;Centros de Formación Técnica;Técnico en Contabilidad General;2017;406;171.0;577
+2018-2019;19;Administración y Comercio;Centros de Formación Técnica;Técnico en Contabilidad Tributaria;2017;90;56.0;146
+2018-2019;20;Educación;Centros de Formación Técnica;Técnico en Deporte, Recreación y Preparación Física;2017;149;392.0;541
+2018-2019;21;Arte y Arquitectura;Centros de Formación Técnica;Técnico en Dibujo Arquitectónico;2017;34;47.0;81
+2018-2019;22;Tecnología;Centros de Formación Técnica;Técnico en Electricidad y Electricidad Industrial;2017;21;806.0;827
+2018-2019;23;Tecnología;Centros de Formación Técnica;Técnico en Electrónica y Electrónica Industrial;2017;4;137.0;141
+2018-2019;24;Salud;Centros de Formación Técnica;Técnico en Enfermería;2017;4049;565.0;4614
+2018-2019;25;Salud;Centros de Formación Técnica;Técnico en Farmacia;2017;117;34.0;151
+2018-2019;26;Administración y Comercio;Centros de Formación Técnica;Técnico en Gastronomía y Cocina;2017;1338;790.0;2128
+2018-2019;27;Ciencias Básicas;Centros de Formación Técnica;Técnico en Geominería;2017;19;20.0;39
+2018-2019;28;Administración y Comercio;Centros de Formación Técnica;Técnico en Gestión y Control de Calidad;2017;10;15.0;25
+2018-2019;29;Tecnología;Centros de Formación Técnica;Técnico en Instrumentación, Automatización y Control Industrial;2017;17;585.0;602
+2018-2019;30;Salud;Centros de Formación Técnica;Técnico en Laboratorio Clínico;2017;330;87.0;417
+2018-2019;31;Administración y Comercio;Centros de Formación Técnica;Técnico en Logística;2017;141;335.0;476
+2018-2019;32;Tecnología;Centros de Formación Técnica;Técnico en Mantenimiento Industrial;2017;35;1368.0;1403
+2018-2019;33;Salud;Centros de Formación Técnica;Técnico en Masoterapia;2017;48;3.0;51
+2018-2019;34;Tecnología;Centros de Formación Técnica;Técnico en Mecánica Automotriz;2017;35;1923.0;1958
+2018-2019;35;Tecnología;Centros de Formación Técnica;Técnico en Mecánica Industrial;2017;7;303.0;310
+2018-2019;36;Tecnología;Centros de Formación Técnica;Técnico en Minería y Metalurgia;2017;90;236.0;326
+2018-2019;37;Salud;Centros de Formación Técnica;Técnico en Podología;2017;300;20.0;320
+2018-2019;38;Tecnología;Centros de Formación Técnica;Técnico en Prevención de Riesgos;2017;1537;1297.0;2834
+2018-2019;39;Tecnología;Centros de Formación Técnica;Técnico en Procesos Industriales;2017;1;94.0;95
+2018-2019;40;Arte y Arquitectura;Centros de Formación Técnica;Técnico en Producción Gráfica y Multimedia;2017;51;77.0;128
+2018-2019;41;Ciencias Básicas;Centros de Formación Técnica;Técnico en Química (Análisis e Industrial);2017;107;62.0;169
+2018-2019;42;Salud;Centros de Formación Técnica;Técnico en Radiología y Radioterapia;2017;37;15.0;52
+2018-2019;43;Tecnología;Centros de Formación Técnica;Técnico en Refrigeración y Climatización;2017;1;71.0;72
+2018-2019;44;Ciencias Sociales;Centros de Formación Técnica;Técnico en Servicio Social;2017;384;73.0;457
+2018-2019;45;Tecnología;Centros de Formación Técnica;Técnico en Telecomunicaciones;2017;23;308.0;331
+2018-2019;46;Salud;Centros de Formación Técnica;Técnico en Terapias Naturales y Naturopatía;2017;105;16.0;121
+2018-2019;47;Tecnología;Centros de Formación Técnica;Técnico en Topografía;2017;69;284.0;353
+2018-2019;48;Administración y Comercio;Centros de Formación Técnica;Técnico en Turismo y Hotelería;2017;505;269.0;774
+2018-2019;49;Derecho;Centros de Formación Técnica;Técnico Jurídico;2017;187;68.0;255
+2018-2019;50;Salud;Centros de Formación Técnica;Técnico Laboratorista Dental;2017;110;43.0;153
+2018-2019;51;Arte y Arquitectura;Institutos Profesionales;Actuación y Teatro;2017;72;47.0;119
+2018-2019;52;Administración y Comercio;Institutos Profesionales;Administración de Empresas e Ing. Asociadas;2017;2868;1679.0;4547
+2018-2019;53;Administración y Comercio;Institutos Profesionales;Administración Gastronómica;2017;361;203.0;564
+2018-2019;54;Ciencias Sociales;Institutos Profesionales;Administración Pública;2017;307;382.0;689
+2018-2019;55;Administración y Comercio;Institutos Profesionales;Administración Turística y Hotelera;2017;318;170.0;488
+2018-2019;56;Arte y Arquitectura;Institutos Profesionales;Comunicación Audiovisual y/o Multimedia;2017;127;183.0;310
+2018-2019;57;Tecnología;Institutos Profesionales;Construcción Civil;2017;285;1486.0;1771
+2018-2019;58;Administración y Comercio;Institutos Profesionales;Contador Auditor;2017;1307;805.0;2112
+2018-2019;59;Arte y Arquitectura;Institutos Profesionales;Diseño de Ambientes e Interiores;2017;85;15.0;100
+2018-2019;60;Arte y Arquitectura;Institutos Profesionales;Diseño de Vestuario;2017;180;9.0;189
+2018-2019;61;Arte y Arquitectura;Institutos Profesionales;Diseño Gráfico;2017;444;428.0;872
+2018-2019;62;Tecnología;Institutos Profesionales;Diseño Industrial;2017;66;76.0;142
+2018-2019;63;Arte y Arquitectura;Institutos Profesionales;Fotografía;2017;63;41.0;104
+2018-2019;64;Agropecuaria;Institutos Profesionales;Ingeniería Agrícola;2017;144;290.0;434
+2018-2019;65;Tecnología;Institutos Profesionales;Ingeniería en Automatización, Instrumentación y Control;2017;4;73.0;77
+2018-2019;66;Administración y Comercio;Institutos Profesionales;Ingeniería en Comercio Exterior;2017;127;121.0;248
+2018-2019;67;Tecnología;Institutos Profesionales;Ingeniería en Computación e Informática;2017;175;1403.0;1578
+2018-2019;68;Tecnología;Institutos Profesionales;Ingeniería en Conectividad y Redes;2017;29;530.0;559
+2018-2019;69;Tecnología;Institutos Profesionales;Ingeniería en Construcción;2017;166;771.0;937
+2018-2019;70;Tecnología;Institutos Profesionales;Ingeniería en Electricidad;2017;14;582.0;596
+2018-2019;71;Administración y Comercio;Institutos Profesionales;Ingeniería en Finanzas;2017;145;92.0;237
+2018-2019;72;Ciencias Sociales;Institutos Profesionales;Ingeniería en Gestión Pública;2017;96;43.0;139
+2018-2019;73;Administración y Comercio;Institutos Profesionales;Ingeniería en Logística;2017;46;129.0;175
+2018-2019;74;Administración y Comercio;Institutos Profesionales;Ingeniería en Marketing;2017;290;213.0;503
+2018-2019;75;Tecnología;Institutos Profesionales;Ingeniería en Mecánica Automotriz;2017;32;1763.0;1795
+2018-2019;76;Tecnología;Institutos Profesionales;Ingeniería en Medio Ambiente;2017;36;47.0;83
+2018-2019;77;Tecnología;Institutos Profesionales;Ingeniería en Minas y Metalurgia;2017;128;333.0;461
+2018-2019;78;Tecnología;Institutos Profesionales;Ingeniería en Prevención de Riesgos;2017;3156;3271.0;6427
+2018-2019;79;Tecnología;Institutos Profesionales;Ingeniería en Química;2017;44;26.0;70
+2018-2019;80;Administración y Comercio;Institutos Profesionales;Ingeniería en Recursos Humanos;2017;838;271.0;1109
+2018-2019;81;Tecnología;Institutos Profesionales;Ingeniería en Refrigeración y Climatización;2017;1;57.0;58
+2018-2019;82;Tecnología;Institutos Profesionales;Ingeniería en Sonido;2017;14;141.0;155
+2018-2019;83;Tecnología;Institutos Profesionales;Ingeniería en Telecomunicaciones;2017;10;214.0;224
+2018-2019;84;Tecnología;Institutos Profesionales;Ingeniería Industrial;2017;48;209.0;257
+2018-2019;85;Tecnología;Institutos Profesionales;Ingeniería Mecánica;2017;16;568.0;584
+2018-2019;86;Salud;Institutos Profesionales;Kinesiología;2017;69;48.0;117
+2018-2019;87;Arte y Arquitectura;Institutos Profesionales;Música, Canto o Danza;2017;35;68.0;103
+2018-2019;88;Salud;Institutos Profesionales;Nutrición y Dietética;2017;105;7.0;112
+2018-2019;89;Educación;Institutos Profesionales;Pedagogía en Educación Básica;2017;198;44.0;242
+2018-2019;90;Educación;Institutos Profesionales;Pedagogía en Educación de Párvulos;2017;1244;0.0;1244
+2018-2019;91;Educación;Institutos Profesionales;Pedagogía en Educación Diferencial;2017;378;14.0;392
+2018-2019;92;Educación;Institutos Profesionales;Pedagogía en Idiomas;2017;74;52.0;126
+2018-2019;93;Educación;Institutos Profesionales;Psicopedagogía;2017;2015;149.0;2164
+2018-2019;94;Ciencias Sociales;Institutos Profesionales;Publicidad;2017;205;250.0;455
+2018-2019;95;Ciencias Sociales;Institutos Profesionales;Relaciones Públicas;2017;162;70.0;232
+2018-2019;96;Agropecuaria;Institutos Profesionales;Técnico Agropecuario;2017;108;173.0;281
+2018-2019;97;Educación;Institutos Profesionales;Técnico Asistente del Educador de Párvulos;2017;3317;2.0;3319
+2018-2019;98;Educación;Institutos Profesionales;Técnico Asistente del Educador Diferencial;2017;1046;35.0;1081
+2018-2019;99;Salud;Institutos Profesionales;Técnico Dental y Asistente de Odontología;2017;896;127.0;1023
+2018-2019;100;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Empresas;2017;2701;1412.0;4113
+2018-2019;101;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Recursos Humanos y Personal;2017;718;193.0;911
+2018-2019;102;Tecnología;Institutos Profesionales;Técnico en Administración de Redes y Soporte;2017;33;392.0;425
+2018-2019;103;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Ventas;2017;75;55.0;130
+2018-2019;104;Administración y Comercio;Institutos Profesionales;Técnico en Administración Financiera y Finanzas;2017;658;415.0;1073
+2018-2019;105;Humanidades;Institutos Profesionales;Técnico en Bibliotecas y Centros de Documentación;2017;56;23.0;79
+2018-2019;106;Administración y Comercio;Institutos Profesionales;Técnico en Comercio Exterior;2017;135;124.0;259
+2018-2019;107;Tecnología;Institutos Profesionales;Técnico en Computación e Informática;2017;97;739.0;836
+2018-2019;108;Arte y Arquitectura;Institutos Profesionales;Técnico en Comunicación Audiovisual;2017;82;223.0;305
+2018-2019;109;Tecnología;Institutos Profesionales;Técnico en Construcción y Obras Civiles;2017;215;1164.0;1379
+2018-2019;110;Administración y Comercio;Institutos Profesionales;Técnico en Contabilidad General;2017;622;302.0;924
+2018-2019;111;Administración y Comercio;Institutos Profesionales;Técnico en Contabilidad Tributaria;2017;218;101.0;319
+2018-2019;112;Educación;Institutos Profesionales;Técnico en Deporte, Recreación y Preparación Física;2017;292;985.0;1277
+2018-2019;113;Arte y Arquitectura;Institutos Profesionales;Técnico en Dibujo Arquitectónico;2017;114;172.0;286
+2018-2019;114;Arte y Arquitectura;Institutos Profesionales;Técnico en Diseño Gráfico;2017;134;151.0;285
+2018-2019;115;Tecnología;Institutos Profesionales;Técnico en Electricidad y Electricidad Industrial;2017;30;951.0;981
+2018-2019;116;Tecnología;Institutos Profesionales;Técnico en Electromecánica;2017;8;289.0;297
+2018-2019;117;Salud;Institutos Profesionales;Técnico en Enfermería;2017;5787;870.0;6657
+2018-2019;118;Arte y Arquitectura;Institutos Profesionales;Técnico en Fotografía;2017;52;36.0;88
+2018-2019;119;Administración y Comercio;Institutos Profesionales;Técnico en Gastronomía y Cocina;2017;202;151.0;353
+2018-2019;120;Tecnología;Institutos Profesionales;Técnico en Instrumentación, Automatización y Control Industrial;2017;14;126.0;140
+2018-2019;121;Salud;Institutos Profesionales;Técnico en Laboratorio Clínico;2017;292;60.0;352
+2018-2019;122;Administración y Comercio;Institutos Profesionales;Técnico en Logística;2017;108;307.0;415
+2018-2019;123;Salud;Institutos Profesionales;Técnico en Masoterapia;2017;333;83.0;416
+2018-2019;124;Tecnología;Institutos Profesionales;Técnico en Mecánica Automotriz;2017;28;1022.0;1050
+2018-2019;125;Arte y Arquitectura;Institutos Profesionales;Técnico en Peluquería y Estética;2017;500;16.0;516
+2018-2019;126;Tecnología;Institutos Profesionales;Técnico en Prevención de Riesgos;2017;1553;1409.0;2962
+2018-2019;127;Ciencias Sociales;Institutos Profesionales;Técnico en Publicidad;2017;24;32.0;56
+2018-2019;128;Salud;Institutos Profesionales;Técnico en Radiología y Radioterapia;2017;100;34.0;134
+2018-2019;129;Ciencias Sociales;Institutos Profesionales;Técnico en Relaciones Públicas;2017;147;62.0;209
+2018-2019;130;Ciencias Sociales;Institutos Profesionales;Técnico en Servicio Social;2017;1751;308.0;2059
+2018-2019;131;Tecnología;Institutos Profesionales;Técnico en Sonido;2017;14;224.0;238
+2018-2019;132;Tecnología;Institutos Profesionales;Técnico en Telecomunicaciones;2017;7;131.0;138
+2018-2019;133;Salud;Institutos Profesionales;Técnico en Terapias Naturales y Naturopatía;2017;46;10.0;56
+2018-2019;134;Tecnología;Institutos Profesionales;Técnico en Topografía;2017;55;229.0;284
+2018-2019;135;Humanidades;Institutos Profesionales;Técnico en Traducción e Interpretariado;2017;70;41.0;111
+2018-2019;136;Administración y Comercio;Institutos Profesionales;Técnico en Turismo y Hotelería;2017;307;168.0;475
+2018-2019;137;Derecho;Institutos Profesionales;Técnico Jurídico;2017;235;88.0;323
+2018-2019;138;Salud;Institutos Profesionales;Técnico Laboratorista Dental;2017;78;35.0;113
+2018-2019;139;Agropecuaria;Institutos Profesionales;Técnico Veterinario;2017;138;36.0;174
+2018-2019;140;Ciencias Sociales;Institutos Profesionales;Trabajo Social;2017;2209;548.0;2757
+2017-2018;1;Administración y Comercio;Centros de Formación Técnica;Secretariado Bilingüe;2016;270;5.0;275
+2017-2018;2;Administración y Comercio;Centros de Formación Técnica;Secretariado Computacional;2016;38;;38
+2017-2018;3;Administración y Comercio;Centros de Formación Técnica;Secretariado Ejecutivo;2016;73;1.0;74
+2017-2018;4;Salud;Centros de Formación Técnica;Técnico Agente o Visitador Médico;2016;37;6.0;43
+2017-2018;5;Agropecuaria;Centros de Formación Técnica;Técnico Agropecuario;2016;298;426.0;724
+2017-2018;6;Educación;Centros de Formación Técnica;Técnico Asistente del Educador de Párvulos;2016;1911;;1911
+2017-2018;7;Educación;Centros de Formación Técnica;Técnico Asistente del Educador Diferencial;2016;799;30.0;829
+2017-2018;8;Salud;Centros de Formación Técnica;Técnico Dental y Asistente de Odontología;2016;592;51.0;643
+2017-2018;9;Agropecuaria;Centros de Formación Técnica;Técnico en Acuicultura y Pesca;2016;6;23.0;29
+2017-2018;10;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Empresas;2016;2555;1191.0;3746
+2017-2018;11;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Recursos Humanos y Personal;2016;483;121.0;604
+2017-2018;12;Tecnología;Centros de Formación Técnica;Técnico en Administración de Redes y Soporte;2016;20;154.0;174
+2017-2018;13;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración de Ventas;2016;36;19.0;55
+2017-2018;14;Administración y Comercio;Centros de Formación Técnica;Técnico en Administración Financiera y Finanzas;2016;94;61.0;155
+2017-2018;15;Ciencias Sociales;Centros de Formación Técnica;Técnico en Administración Pública o Municipal;2016;176;58.0;234
+2017-2018;16;Tecnología;Centros de Formación Técnica;Técnico en Alimentos;2016;54;9.0;63
+2017-2018;17;Tecnología;Centros de Formación Técnica;Técnico en Análisis de Sistemas;2016;10;39.0;49
+2017-2018;18;Tecnología;Centros de Formación Técnica;Técnico en Biotecnología Industrial;2016;22;17.0;39
+2017-2018;19;Administración y Comercio;Centros de Formación Técnica;Técnico en Comercio Exterior;2016;205;143.0;348
+2017-2018;20;Tecnología;Centros de Formación Técnica;Técnico en Computación e Informática;2016;64;394.0;458
+2017-2018;21;Tecnología;Centros de Formación Técnica;Técnico en Construcción y Obras Civiles;2016;108;591.0;699
+2017-2018;22;Administración y Comercio;Centros de Formación Técnica;Técnico en Contabilidad Computacional;2016;39;9.0;48
+2017-2018;23;Administración y Comercio;Centros de Formación Técnica;Técnico en Contabilidad General;2016;383;183.0;566
+2017-2018;24;Administración y Comercio;Centros de Formación Técnica;Técnico en Contabilidad Tributaria;2016;91;45.0;136
+2017-2018;25;Educación;Centros de Formación Técnica;Técnico en Deporte, Recreación y Preparación Física;2016;172;410.0;582
+2017-2018;26;Arte y Arquitectura;Centros de Formación Técnica;Técnico en Dibujo Arquitectónico;2016;23;49.0;72
+2017-2018;27;Arte y Arquitectura;Centros de Formación Técnica;Técnico en Diseño Gráfico;2016;11;14.0;25
+2017-2018;28;Tecnología;Centros de Formación Técnica;Técnico en Electricidad y Electricidad Industrial;2016;17;799.0;816
+2017-2018;29;Tecnología;Centros de Formación Técnica;Técnico en Electrónica y Electrónica Industrial;2016;3;151.0;154
+2017-2018;30;Salud;Centros de Formación Técnica;Técnico en Enfermería;2016;5055;792.0;5847
+2017-2018;31;Salud;Centros de Formación Técnica;Técnico en Farmacia;2016;96;26.0;122
+2017-2018;32;Administración y Comercio;Centros de Formación Técnica;Técnico en Gastronomía y Cocina;2016;1026;572.0;1598
+2017-2018;33;Ciencias Básicas;Centros de Formación Técnica;Técnico en Geominería;2016;27;28.0;55
+2017-2018;34;Administración y Comercio;Centros de Formación Técnica;Técnico en Gestión y Control de Calidad;2016;13;19.0;32
+2017-2018;35;Tecnología;Centros de Formación Técnica;Técnico en Instrumentación, Automatización y Control Industrial;2016;21;459.0;480
+2017-2018;36;Salud;Centros de Formación Técnica;Técnico en Laboratorio Clínico;2016;324;69.0;393
+2017-2018;37;Administración y Comercio;Centros de Formación Técnica;Técnico en Logística;2016;107;230.0;337
+2017-2018;38;Tecnología;Centros de Formación Técnica;Técnico en Mantenimiento Industrial;2016;22;1158.0;1180
+2017-2018;39;Tecnología;Centros de Formación Técnica;Técnico en Mecánica Automotriz;2016;38;1871.0;1909
+2017-2018;40;Tecnología;Centros de Formación Técnica;Técnico en Mecánica Industrial;2016;2;294.0;296
+2017-2018;41;Tecnología;Centros de Formación Técnica;Técnico en Minería y Metalurgia;2016;44;150.0;194
+2017-2018;42;Salud;Centros de Formación Técnica;Técnico en Podología;2016;219;19.0;238
+2017-2018;43;Tecnología;Centros de Formación Técnica;Técnico en Prevención de Riesgos;2016;1897;1736.0;3633
+2017-2018;44;Tecnología;Centros de Formación Técnica;Técnico en Procesos Industriales;2016;2;115.0;117
+2017-2018;45;Arte y Arquitectura;Centros de Formación Técnica;Técnico en Producción Gráfica y Multimedia;2016;44;55.0;99
+2017-2018;46;Ciencias Básicas;Centros de Formación Técnica;Técnico en Química (Análisis e Industrial);2016;90;47.0;137
+2017-2018;47;Salud;Centros de Formación Técnica;Técnico en Radiología y Radioterapia;2016;37;12.0;49
+2017-2018;48;Tecnología;Centros de Formación Técnica;Técnico en Refrigeración y Climatización;2016;2;82.0;84
+2017-2018;49;Ciencias Sociales;Centros de Formación Técnica;Técnico en Servicio Social;2016;282;35.0;317
+2017-2018;50;Tecnología;Centros de Formación Técnica;Técnico en Telecomunicaciones;2016;22;371.0;393
+2017-2018;51;Salud;Centros de Formación Técnica;Técnico en Terapias Naturales y Naturopatía;2016;66;16.0;82
+2017-2018;52;Tecnología;Centros de Formación Técnica;Técnico en Topografía;2016;45;244.0;289
+2017-2018;53;Administración y Comercio;Centros de Formación Técnica;Técnico en Turismo y Hotelería;2016;530;277.0;807
+2017-2018;54;Derecho;Centros de Formación Técnica;Técnico Jurídico;2016;265;73.0;338
+2017-2018;55;Salud;Centros de Formación Técnica;Técnico Laboratorista Dental;2016;150;46.0;196
+2017-2018;56;Arte y Arquitectura;Institutos Profesionales;Actuación y Teatro;2016;67;40.0;107
+2017-2018;57;Administración y Comercio;Institutos Profesionales;Administración de Empresas e Ing. Asociadas;2016;1759;1273.0;3032
+2017-2018;58;Administración y Comercio;Institutos Profesionales;Administración Gastronómica;2016;341;237.0;578
+2017-2018;59;Ciencias Sociales;Institutos Profesionales;Administración Pública;2016;352;469.0;821
+2017-2018;60;Administración y Comercio;Institutos Profesionales;Administración Turística y Hotelera;2016;253;126.0;379
+2017-2018;61;Arte y Arquitectura;Institutos Profesionales;Comunicación Audiovisual y/o Multimedia;2016;104;176.0;280
+2017-2018;62;Tecnología;Institutos Profesionales;Construcción Civil;2016;137;932.0;1069
+2017-2018;63;Administración y Comercio;Institutos Profesionales;Contador Auditor;2016;1015;656.0;1671
+2017-2018;64;Arte y Arquitectura;Institutos Profesionales;Diseño de Ambientes e Interiores;2016;85;17.0;102
+2017-2018;65;Arte y Arquitectura;Institutos Profesionales;Diseño de Vestuario;2016;156;6.0;162
+2017-2018;66;Arte y Arquitectura;Institutos Profesionales;Diseño Gráfico;2016;379;432.0;811
+2017-2018;67;Tecnología;Institutos Profesionales;Diseño Industrial;2016;96;79.0;175
+2017-2018;68;Arte y Arquitectura;Institutos Profesionales;Fotografía;2016;56;44.0;100
+2017-2018;69;Agropecuaria;Institutos Profesionales;Ingeniería Agrícola;2016;126;284.0;410
+2017-2018;70;Agropecuaria;Institutos Profesionales;Ingeniería en Acuicultura y Pesca;2016;10;29.0;39
+2017-2018;71;Tecnología;Institutos Profesionales;Ingeniería en Automatización, Instrumentación y Control;2016;2;63.0;65
+2017-2018;72;Administración y Comercio;Institutos Profesionales;Ingeniería en Comercio Exterior;2016;166;121.0;287
+2017-2018;73;Tecnología;Institutos Profesionales;Ingeniería en Computación e Informática;2016;175;1327.0;1502
+2017-2018;74;Tecnología;Institutos Profesionales;Ingeniería en Conectividad y Redes;2016;41;600.0;641
+2017-2018;75;Tecnología;Institutos Profesionales;Ingeniería en Construcción;2016;135;693.0;828
+2017-2018;76;Tecnología;Institutos Profesionales;Ingeniería en Electricidad;2016;3;263.0;266
+2017-2018;77;Administración y Comercio;Institutos Profesionales;Ingeniería en Finanzas;2016;62;65.0;127
+2017-2018;78;Administración y Comercio;Institutos Profesionales;Ingeniería en Logística;2016;45;87.0;132
+2017-2018;79;Administración y Comercio;Institutos Profesionales;Ingeniería en Marketing;2016;189;178.0;367
+2017-2018;80;Tecnología;Institutos Profesionales;Ingeniería en Mecánica Automotriz;2016;20;1497.0;1517
+2017-2018;81;Tecnología;Institutos Profesionales;Ingeniería en Medio Ambiente;2016;21;21.0;42
+2017-2018;82;Tecnología;Institutos Profesionales;Ingeniería en Minas y Metalurgia;2016;78;207.0;285
+2017-2018;83;Tecnología;Institutos Profesionales;Ingeniería en Prevención de Riesgos;2016;2520;2862.0;5382
+2017-2018;84;Tecnología;Institutos Profesionales;Ingeniería en Química;2016;63;53.0;116
+2017-2018;85;Administración y Comercio;Institutos Profesionales;Ingeniería en Recursos Humanos;2016;971;280.0;1251
+2017-2018;86;Tecnología;Institutos Profesionales;Ingeniería en Sonido;2016;9;87.0;96
+2017-2018;87;Tecnología;Institutos Profesionales;Ingeniería en Telecomunicaciones;2016;14;296.0;310
+2017-2018;88;Tecnología;Institutos Profesionales;Ingeniería Industrial;2016;40;134.0;174
+2017-2018;89;Tecnología;Institutos Profesionales;Ingeniería Mecánica;2016;12;539.0;551
+2017-2018;90;Salud;Institutos Profesionales;Kinesiología;2016;89;56.0;145
+2017-2018;91;Arte y Arquitectura;Institutos Profesionales;Música, Canto o Danza;2016;23;56.0;79
+2017-2018;92;Salud;Institutos Profesionales;Nutrición y Dietética;2016;182;31.0;213
+2017-2018;93;Educación;Institutos Profesionales;Pedagogía en Educación Básica;2016;219;37.0;256
+2017-2018;94;Educación;Institutos Profesionales;Pedagogía en Educación de Párvulos;2016;1368;1.0;1369
+2017-2018;95;Educación;Institutos Profesionales;Pedagogía en Educación Diferencial;2016;593;23.0;616
+2017-2018;96;Educación;Institutos Profesionales;Pedagogía en Idiomas;2016;56;32.0;88
+2017-2018;97;Educación;Institutos Profesionales;Psicopedagogía;2016;1507;126.0;1633
+2017-2018;98;Ciencias Sociales;Institutos Profesionales;Publicidad;2016;174;201.0;375
+2017-2018;99;Ciencias Sociales;Institutos Profesionales;Relaciones Públicas;2016;167;63.0;230
+2017-2018;100;Agropecuaria;Institutos Profesionales;Técnico Agropecuario;2016;104;159.0;263
+2017-2018;101;Educación;Institutos Profesionales;Técnico Asistente del Educador de Párvulos;2016;2160;1.0;2161
+2017-2018;102;Educación;Institutos Profesionales;Técnico Asistente del Educador Diferencial;2016;978;24.0;1002
+2017-2018;103;Salud;Institutos Profesionales;Técnico Dental y Asistente de Odontología;2016;921;117.0;1038
+2017-2018;104;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Empresas;2016;3984;1747.0;5731
+2017-2018;105;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Recursos Humanos y Personal;2016;590;158.0;748
+2017-2018;106;Tecnología;Institutos Profesionales;Técnico en Administración de Redes y Soporte;2016;36;450.0;486
+2017-2018;107;Administración y Comercio;Institutos Profesionales;Técnico en Administración de Ventas;2016;61;51.0;112
+2017-2018;108;Administración y Comercio;Institutos Profesionales;Técnico en Administración Financiera y Finanzas;2016;515;281.0;796
+2017-2018;109;Ciencias Sociales;Institutos Profesionales;Técnico en Administración Pública o Municipal;2016;51;18.0;69
+2017-2018;110;Humanidades;Institutos Profesionales;Técnico en Bibliotecas y Centros de Documentación;2016;37;19.0;56
+2017-2018;111;Administración y Comercio;Institutos Profesionales;Técnico en Comercio Exterior;2016;109;87.0;196
+2017-2018;112;Tecnología;Institutos Profesionales;Técnico en Computación e Informática;2016;103;811.0;914
+2017-2018;113;Arte y Arquitectura;Institutos Profesionales;Técnico en Comunicación Audiovisual;2016;66;190.0;256
+2017-2018;114;Tecnología;Institutos Profesionales;Técnico en Construcción y Obras Civiles;2016;283;1384.0;1667
+2017-2018;115;Administración y Comercio;Institutos Profesionales;Técnico en Contabilidad General;2016;687;305.0;992
+2017-2018;116;Administración y Comercio;Institutos Profesionales;Técnico en Contabilidad Tributaria;2016;225;105.0;330
+2017-2018;117;Educación;Institutos Profesionales;Técnico en Deporte, Recreación y Preparación Física;2016;300;940.0;1240
+2017-2018;118;Arte y Arquitectura;Institutos Profesionales;Técnico en Dibujo Arquitectónico;2016;74;145.0;219
+2017-2018;119;Arte y Arquitectura;Institutos Profesionales;Técnico en Diseño Gráfico;2016;121;149.0;270
+2017-2018;120;Tecnología;Institutos Profesionales;Técnico en Electricidad y Electricidad Industrial;2016;21;835.0;856
+2017-2018;121;Tecnología;Institutos Profesionales;Técnico en Electromecánica;2016;11;335.0;346
+2017-2018;122;Salud;Institutos Profesionales;Técnico en Enfermería;2016;5968;912.0;6880
+2017-2018;123;Arte y Arquitectura;Institutos Profesionales;Técnico en Fotografía;2016;39;35.0;74
+2017-2018;124;Administración y Comercio;Institutos Profesionales;Técnico en Gastronomía y Cocina;2016;203;114.0;317
+2017-2018;125;Tecnología;Institutos Profesionales;Técnico en Instrumentación, Automatización y Control Industrial;2016;8;94.0;102
+2017-2018;126;Salud;Institutos Profesionales;Técnico en Laboratorio Clínico;2016;260;61.0;321
+2017-2018;127;Administración y Comercio;Institutos Profesionales;Técnico en Logística;2016;89;206.0;295
+2017-2018;128;Salud;Institutos Profesionales;Técnico en Masoterapia;2016;285;58.0;343
+2017-2018;129;Tecnología;Institutos Profesionales;Técnico en Mecánica Automotriz;2016;16;1023.0;1039
+2017-2018;130;Arte y Arquitectura;Institutos Profesionales;Técnico en Peluquería y Estética;2016;502;14.0;516
+2017-2018;131;Tecnología;Institutos Profesionales;Técnico en Prevención de Riesgos;2016;2379;2286.0;4665
+2017-2018;132;Ciencias Sociales;Institutos Profesionales;Técnico en Publicidad;2016;17;26.0;43
+2017-2018;133;Salud;Institutos Profesionales;Técnico en Radiología y Radioterapia;2016;88;41.0;129
+2017-2018;134;Ciencias Sociales;Institutos Profesionales;Técnico en Relaciones Públicas;2016;191;98.0;289
+2017-2018;135;Ciencias Sociales;Institutos Profesionales;Técnico en Servicio Social;2016;1420;249.0;1669
+2017-2018;136;Tecnología;Institutos Profesionales;Técnico en Sonido;2016;8;221.0;229
+2017-2018;137;Tecnología;Institutos Profesionales;Técnico en Telecomunicaciones;2016;6;133.0;139
+2017-2018;138;Tecnología;Institutos Profesionales;Técnico en Topografía;2016;28;164.0;192
+2017-2018;139;Humanidades;Institutos Profesionales;Técnico en Traducción e Interpretariado;2016;65;41.0;106
+2017-2018;140;Administración y Comercio;Institutos Profesionales;Técnico en Turismo y Hotelería;2016;266;141.0;407
+2017-2018;141;Derecho;Institutos Profesionales;Técnico Jurídico;2016;238;92.0;330
+2017-2018;142;Salud;Institutos Profesionales;Técnico Laboratorista Dental;2016;36;12.0;48
+2017-2018;143;Agropecuaria;Institutos Profesionales;Técnico Veterinario;2016;120;51.0;171
+2017-2018;144;Ciencias Sociales;Institutos Profesionales;Trabajo Social;2016;2060;485.0;2545
